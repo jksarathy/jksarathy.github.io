@@ -10,7 +10,7 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Roboto";
+    font-family: "Inconsolata";
     height: 100%;
     font-size: 16px;
     line-height: 1.5em;
@@ -55,9 +55,9 @@ mark{
 #author-name {
     font-size: 35px;
     font-weight: bold;
-    color: black;
+    color: brown;
     display: inline-block;
-    font-family: 'Major Mono Display', monospace;
+    // font-family: 'Major Mono Display', monospace;
 }
 .navbar {
     padding: 50px 0 50px 0;
