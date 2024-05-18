@@ -20,8 +20,6 @@ nav:
    link: "/"
  - name: "Publications"
    link: "publications"
- - name: "Public Writing"
-   link: "writing"
  - name: "Talks"
    link: "talks"
  - name: "Teaching"
