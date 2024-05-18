@@ -37,12 +37,13 @@
         font-style: italic;
     }
     .profile-picture {
-        height: $image-size;
-        width: $image-size;
+        height: 176px;
+        width: 206px;
         position: relative;
-        margin: -10px 0 0 15px;
+        margin: -80px 0 0 0px;
         float: right;
-        border-radius: 50%;
+        // border-radius: 50%;
+        border: 5px solid teal;
         p & {
             padding: 0;
             margin: 0;
@@ -53,8 +54,24 @@
             }
         }
     }
-    img {
-        text-align: center;
-        width: 100%;
+
+    .profile-custom {
+        height: 176px;
+        width: 206px;
+        position: relative;
+        margin: -20px 0 0 0px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
+        }
     }
+
 }
