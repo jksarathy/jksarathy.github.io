@@ -4,7 +4,7 @@ layout: default
 
 <!-- > **_Update:_** Text here -->
 
-<img class="profile-custom" src="profile.png">
+<!-- <img class="profile-custom" src="profile.png"> -->
 
 Hi there! I am a postdoctoral researcher at Columbia University's [Data Science Institute](https://datascience.columbia.edu/), advised primarily by [Rachel Cummings](https://rachelcummings.com/). I will be joining Northeastern University in Fall 2024 as a senior research fellow and in Spring 2026 as an assistant professor in the [Khoury College of Computer Science](https://www.khoury.northeastern.edu/). 
  
