@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> **_Update:_** Text here
+<!-- > **_Update:_** Text here -->
 
 Hi! Text here
 
