@@ -63,9 +63,9 @@ Clinical Infectious Diseases, 2020.\
 **Ring Signatures for Anonymous Sourcing in Journalism**\
 with Catherine Kerner\
 Presented at Computation+Journalism Conference, 2021.\
-[pdf](ring_sigs.pdf)
+[pdf](ring_sigs_2021.pdf)
  
 **Efficient Multi-Key Verifiable Shuffles**\
 with Benedikt Bünz and Mariana Raykova\
 Working paper, last updated in 2021\
-[pdf](bp_shuffle.pdf)
+[pdf](bp_shuffle_2021.pdf)
