@@ -1,13 +1,33 @@
 ---
 layout: default
 ---
+# Research
+<!---
 ### Working Papers
+
+**"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**\
+with Patrick Song, Michael Shoemate, and Salil Vadhan
+
+**"Statistical Imaginaries, State Legitimacy: Grappling with the Arrangements Underpinning Quantification in the U.S. Census**\
+with danah boyd
+
+**Investigating the Politics of Data Access via Federal Statistical Research Data Centers**\
+with danah boyd
+
+**The Social Construction of Uncertainty in Official Statistics**\
+with Jeremy Seeman, Daniel Susser, and danah boyd
+--->
+
+<!---### Completed Papers--->
+
+**ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical Adversaries**\
+with Rachel Cummings, Shlomi Hod, and Marika Swanberg\
+To be presented at Foundations of Responsible Computing (FORC), 2024.\
+[arXiv](https://arxiv.org/pdf/2405.01716)
 
 **Centering Policy and Practice: Research Gaps around Usable Differential Privacy**\
 with Rachel Cummings\
 IEEE Conference on Trust Privacy and Security in Intelligent Systems and Applications (TPS), 2023
-
-### Completed Papers
  
 **Dont Look at the Data! How Differential Privacy Reconfigures the Practices of Data Science**\
 with Sophia Song, Audrey Haque, Tania Schlatter, and Salil Vadhan\
