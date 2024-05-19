@@ -15,11 +15,6 @@ body {
     font-size: 16px;
     line-height: 1.5em;
 }
-
-h3{
-    font-family: 'Major Mono Display',monospace;
-}
-
 a {
     text-decoration: none;
     color: $accent;
@@ -53,11 +48,10 @@ mark{
  */
 
 #author-name {
-    font-size: 35px;
-    font-weight: bold;
-    color: brown;
+    font-size: 30px;
     display: inline-block;
-    // font-family: 'Major Mono Display', monospace;
+    font-weight: bold;
+    color: #795695;
 }
 .navbar {
     padding: 50px 0 50px 0;
