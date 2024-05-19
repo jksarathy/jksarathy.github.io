@@ -2,23 +2,8 @@
 layout: default
 ---
 # Research
-<!---
-### Working Papers
 
-**"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**\
-with Patrick Song, Michael Shoemate, and Salil Vadhan
-
-**"Statistical Imaginaries, State Legitimacy: Grappling with the Arrangements Underpinning Quantification in the U.S. Census**\
-with danah boyd
-
-**Investigating the Politics of Data Access via Federal Statistical Research Data Centers**\
-with danah boyd
-
-**The Social Construction of Uncertainty in Official Statistics**\
-with Jeremy Seeman, Daniel Susser, and danah boyd
---->
-
-<!---### Completed Papers--->
+### Papers
 
 **ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical Adversaries**\
 with Rachel Cummings, Shlomi Hod, and Marika Swanberg\
