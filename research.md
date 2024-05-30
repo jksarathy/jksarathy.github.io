@@ -5,9 +5,9 @@ layout: default
 
 <hr>
 
-### Papers
+<!---### Papers
 
-<hr>
+<hr>-->
 
 **ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical Adversaries**\
 with Rachel Cummings, Shlomi Hod, and Marika Swanberg\
@@ -61,17 +61,12 @@ with Daniel Alabi, Audra McMillan, Adam Smith, and Salil Vadhan\
 Proceedings on Privacy Enhancing Technologies, 2022.\
 Presented at Theory and Practice of Differential Privacy, 2020.\
 [arXiv](https://arxiv.org/abs/2007.05157) | [publisher's version](https://petsymposium.org/popets/2022/popets-2022-0041.php)
- 
-**Inter-Region Transfers for Pandemic Surges**\
-with Kenneth Michelson, Chris Rees, Paige VonAchen, Michael Wornow, Michael Monuteaux, and Mark Neuman\
-Clinical Infectious Diseases, 2020.\
-[publisher's version](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1549/5920707)
 
-<hr>
+<!--- <hr>
 
 ### Other Projects
 
-<hr>
+<hr> -->
  
 **Ring Signatures for Anonymous Sourcing in Journalism**\
 with Catherine Kerner\
@@ -82,3 +77,8 @@ Presented at Computation+Journalism Conference, 2021.\
 with Benedikt Bünz and Mariana Raykova\
 Working paper, last updated in 2021\
 [pdf](bp_shuffle_2021.pdf)
+
+**Inter-Region Transfers for Pandemic Surges**\
+with Kenneth Michelson, Chris Rees, Paige VonAchen, Michael Wornow, Michael Monuteaux, and Mark Neuman\
+Clinical Infectious Diseases, 2020.\
+[publisher's version](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1549/5920707)
