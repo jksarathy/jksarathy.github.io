@@ -5,6 +5,12 @@ layout: default
 
 <hr>
 
+<!---### Manuscripts
+
+<hr>-->
+
+<!--<hr>
+
 <!---### Papers
 
 <hr>-->
@@ -64,7 +70,7 @@ Presented at Theory and Practice of Differential Privacy, 2020.\
 
 <!--- <hr>
 
-### Other Projects
+### Unpublished Work
 
 <hr> -->
  
