@@ -3,7 +3,9 @@ layout: default
 ---
 # Research
 
+<hr>
 ### Papers
+<hr>
 
 **ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical Adversaries**\
 with Rachel Cummings, Shlomi Hod, and Marika Swanberg\
