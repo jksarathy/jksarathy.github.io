@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Teaching
+## Teaching
 
 <hr>
 
