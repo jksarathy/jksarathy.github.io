@@ -16,9 +16,11 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "Home"
    link: "/"
  - name: "Research"
    link: "research"
  - name: "Teaching"
    link: "teaching"
+ - name: "Bio"
+   link: "bio"
