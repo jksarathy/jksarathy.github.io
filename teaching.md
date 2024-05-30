@@ -3,6 +3,8 @@ layout: default
 ---
 # Teaching
 
+<hr>
+
 **CS 208: Applied Privacy in Data Science**\
 Instructors: James Honaker, Salil Vadhan, and Wanrong Zhang\
 Teaching Fellow in Spring 2022
