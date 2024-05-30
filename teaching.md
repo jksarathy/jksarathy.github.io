@@ -1,10 +1,16 @@
 ---
 layout: default
 ---
-### Teaching
+# Teaching
 
-Spring 2022: Teaching Fellow for CS 208: Applied Privacy in Data Science, taught by James Honaker, Salil Vadhan, and Wanrong Zhang.
+**CS 208: Applied Privacy in Data Science**\
+Instructors: James Honaker, Salil Vadhan, and Wanrong Zhang\
+Teaching Fellow in Spring 2022
 
-Spring 2019: Teaching Fellow for CS 208: Applied Privacy in Data Science, taught by James Honaker and Salil Vadhan.
+**CS 208: Applied Privacy in Data Science**\
+Instructors: James Honaker and Salil Vadhan\
+Teaching Fellow in Spring 2019
 
-Spring 2017: Tutor for CPSC 365: Design and Analysis of Algorithms, taught by Dan Spielman.
+**CPSC 365: Design and Analysis of Algorithms**\
+Instructor: Dan Spielman\
+Tutor in Spring 2017
