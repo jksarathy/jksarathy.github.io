@@ -4,7 +4,9 @@ layout: default
 # Research
 
 <hr>
-### Papers
+
+## Papers
+
 <hr>
 
 **ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical Adversaries**\
@@ -65,7 +67,11 @@ with Kenneth Michelson, Chris Rees, Paige VonAchen, Michael Wornow, Michael Monu
 Clinical Infectious Diseases, 2020.\
 [publisher's version](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1549/5920707)
 
-### Other Projects
+<hr>
+
+## Other Projects
+
+<hr>
  
 **Ring Signatures for Anonymous Sourcing in Journalism**\
 with Catherine Kerner\
