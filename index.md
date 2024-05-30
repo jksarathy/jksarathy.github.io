@@ -6,7 +6,7 @@ layout: default
 
 <!-- <img class="profile-custom" src="profile.png"> -->
 
-Hello! I am a postdoctoral researcher at Columbia University's [Data Science Institute](https://datascience.columbia.edu/), advised primarily by [Rachel Cummings](https://rachelcummings.com/). I will be joining Northeastern University in Fall 2024 as a senior research fellow and in Spring 2026 as an assistant professor in the [Khoury College of Computer Science](https://www.khoury.northeastern.edu/). 
+Hello! I am a postdoctoral researcher at Columbia University's [Data Science Institute](https://datascience.columbia.edu/), advised primarily by [Rachel Cummings](https://rachelcummings.com/). I will be joining Northeastern University in Fall 2024 as a senior research fellow and in Spring 2026 as an assistant professor in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/). 
  
 I completed my PhD in Computer Science (with a secondary in Science & Technology Studies) at Harvard University, where I was fortunate to be advised by [Salil Vadhan](https://salil.seas.harvard.edu/) and [Jonathan Zittrain](https://hls.harvard.edu/faculty/jonathan-l-zittrain/) and work within the [OpenDP](https://opendp.org/) team. My dissertation explores the technical, social, and political dimensions of differential privacy.
  
