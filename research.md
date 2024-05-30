@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-# Research
+## Research
 
 <hr>
 
-## Papers
+### Papers
 
 <hr>
 
@@ -69,7 +69,7 @@ Clinical Infectious Diseases, 2020.\
 
 <hr>
 
-## Other Projects
+### Other Projects
 
 <hr>
  
