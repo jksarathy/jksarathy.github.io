@@ -15,6 +15,10 @@ layout: default
 
 <hr>-->
 
+**"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**\
+with Patrick Song, Michael Shoemate, and Salil Vadhan\
+To appear at the ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2024.\
+
 **ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical Adversaries**\
 with Rachel Cummings, Shlomi Hod, and Marika Swanberg\
 To be presented at Foundations of Responsible Computing, 2024.\
