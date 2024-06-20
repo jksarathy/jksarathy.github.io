@@ -21,7 +21,7 @@ To appear at the ACM Conference on Computer-Supported Cooperative Work and Socia
 
 **ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical Adversaries**\
 with Rachel Cummings, Shlomi Hod, and Marika Swanberg\
-To be presented at Foundations of Responsible Computing, 2024.\
+Presented at Foundations of Responsible Computing, 2024.\
 [arXiv](https://arxiv.org/pdf/2405.01716)
 
 **Centering Policy and Practice: Research Gaps around Usable Differential Privacy**\
