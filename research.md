@@ -26,7 +26,8 @@ To be presented at Foundations of Responsible Computing, 2024.\
 
 **Centering Policy and Practice: Research Gaps around Usable Differential Privacy**\
 with Rachel Cummings\
-IEEE Conference on Trust Privacy and Security in Intelligent Systems and Applications (TPS), 2023
+IEEE Conference on Trust Privacy and Security in Intelligent Systems and Applications, 2023.\
+[arXiv](https://arxiv.org/abs/2406.12103) | [publisher's version](https://www.computer.org/csdl/proceedings-article/tps-isa/2023/238500a122/1UAj4IqN4sg)
  
 **Dont Look at the Data! How Differential Privacy Reconfigures the Practices of Data Science**\
 with Sophia Song, Audrey Haque, Tania Schlatter, and Salil Vadhan\
