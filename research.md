@@ -18,12 +18,8 @@ layout: default
 **Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression**\
 with Salil Vadhan\
 Presented at Theory and Practice of Differential Privacy, 2021.\
-To appear at the Privacy-Enhancing Technologies Symposium, 2025.\
+Proceedings on Privacy Enhancing Technologies, 2025.\
 [arXiv](https://arxiv.org/abs/2207.13289)
-
-**Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the U.S. Census**\
-with danah boyd\
-To appear in Critical Sociology.
 
 **"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**\
 with Patrick Song, Michael Shoemate, and Salil Vadhan\
