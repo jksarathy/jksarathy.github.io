@@ -23,7 +23,7 @@ To appear at the Privacy-Enhancing Technologies Symposium, 2025.\
 
 **Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the U.S. Census**\
 with danah boyd\
-To appear in Critical Sociology.\
+To appear in Critical Sociology.
 
 **"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**\
 with Patrick Song, Michael Shoemate, and Salil Vadhan\
