@@ -15,6 +15,16 @@ layout: default
 
 <hr>-->
 
+**Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression**\
+with Salil Vadhan\
+Presented at Theory and Practice of Differential Privacy, 2021.\
+To appear at the Privacy-Enhancing Technologies Symposium, 2025.\
+[arXiv](https://arxiv.org/abs/2207.13289)
+
+**Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the U.S. Census**\
+with danah boyd\
+To appear in Critical Sociology.\
+
 **"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**\
 with Patrick Song, Michael Shoemate, and Salil Vadhan\
 To appear at the ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2024.
@@ -57,11 +67,6 @@ with John Bowers, Jack Cushman, and Jonathan Zittrain\
 Journal of Archival Organization, 2022.\
 Presented at Digital Library Federation Forum, 2020 and DIMACS Workshop on Co-Development of Computer Science and Law, 2020.\
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124742) | [publisher's version](https://www.tandfonline.com/doi/abs/10.1080/15332748.2022.2110552?journalCode=wjao20)
-
-**Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression**\
-with Salil Vadhan\
-Presented at Theory and Practice of Differential Privacy, 2021.\
-[arXiv](https://arxiv.org/abs/2207.13289)
  
 **From Algorithmic to Institutional Logics: The Politics of Differential Privacy**\
 Presented at Privacy Law Scholars Conference, 2021.\
