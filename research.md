@@ -5,15 +5,9 @@ layout: default
 
 <hr>
 
-<!---### Manuscripts
+### Peer-Reviewed Publications
 
-<hr>-->
-
-<!--<hr>
-
-<!---### Papers
-
-<hr>-->
+<hr>
 
 **Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression**\
 with Salil Vadhan\
@@ -57,16 +51,7 @@ with Jörg Drechsler, Ira Globus-Harris, Audra McMillan, and Adam Smith\
 Journal of Survey Statistics and Methodology, 2022.\
 Presented at Theory and Practice of Differential Privacy, 2021.\
 [arXiv](https://arxiv.org/abs/2106.10333) | [publisher's version](https://academic.oup.com/jssam/article/10/3/804/6609829?login=false)
- 
-**‘Time Capsule’ Archiving Through Strong Dark Archives (SDA): Designing Trustable Distributed Archives for Sensitive Materials**\
-with John Bowers, Jack Cushman, and Jonathan Zittrain\
-Journal of Archival Organization, 2022.\
-Presented at Digital Library Federation Forum, 2020 and DIMACS Workshop on Co-Development of Computer Science and Law, 2020.\
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124742) | [publisher's version](https://www.tandfonline.com/doi/abs/10.1080/15332748.2022.2110552?journalCode=wjao20)
- 
-**From Algorithmic to Institutional Logics: The Politics of Differential Privacy**\
-Presented at Privacy Law Scholars Conference, 2021.\
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4079222)
+
  
 **Differentially Private Simple Linear Regression**\
 with Daniel Alabi, Audra McMillan, Adam Smith, and Salil Vadhan\
@@ -74,11 +59,37 @@ Proceedings on Privacy Enhancing Technologies, 2022.\
 Presented at Theory and Practice of Differential Privacy, 2020.\
 [arXiv](https://arxiv.org/abs/2007.05157) | [publisher's version](https://petsymposium.org/popets/2022/popets-2022-0041.php)
 
-<!--- <hr>
+**‘Time Capsule’ Archiving Through Strong Dark Archives (SDA): Designing Trustable Distributed Archives for Sensitive Materials**\
+with John Bowers, Jack Cushman, and Jonathan Zittrain\
+Journal of Archival Organization, 2022.\
+Presented at Digital Library Federation Forum, 2020 and DIMACS Workshop on Co-Development of Computer Science and Law, 2020.\
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124742) | [publisher's version](https://www.tandfonline.com/doi/abs/10.1080/15332748.2022.2110552?journalCode=wjao20)
 
-### Unpublished Work
+**Inter-Region Transfers for Pandemic Surges**\
+with Kenneth Michelson, Chris Rees, Paige VonAchen, Michael Wornow, Michael Monuteaux, and Mark Neuman\
+Clinical Infectious Diseases, 2020.\
+[publisher's version](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1549/5920707)
 
-<hr> -->
+<hr>
+
+### Working Papers
+
+<hr>
+
+**From Algorithmic to Institutional Logics: The Politics of Differential Privacy**\
+Presented at Privacy Law Scholars Conference, 2021.\
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4079222)
+
+<hr>
+
+### Other Work
+
+<hr>
+
+**Comment on “NIST SP 800-226: Guidelines for Evaluating Differential Privacy Guarantees”**\
+with Rachel Cummings, Shlomi Hod, Gabriel Kaptchuk, Priyanka Nanayakkara, and Jeremy Seeman\
+Submitted as a public comment to NIST, 2024.\
+[pdf](https://www.cs.umd.edu/~kaptchuk/publications/nist24-dp-public-comment.pdf)
  
 **Ring Signatures for Anonymous Sourcing in Journalism**\
 with Catherine Kerner\
@@ -87,10 +98,5 @@ Presented at Computation+Journalism Conference, 2021.\
  
 **Efficient Multi-Key Verifiable Shuffles**\
 with Benedikt Bünz and Mariana Raykova\
-Working paper, last updated in 2021\
+Working paper, last updated in 2021.\
 [pdf](bp_shuffle_2021.pdf)
-
-**Inter-Region Transfers for Pandemic Surges**\
-with Kenneth Michelson, Chris Rees, Paige VonAchen, Michael Wornow, Michael Monuteaux, and Mark Neuman\
-Clinical Infectious Diseases, 2020.\
-[publisher's version](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1549/5920707)
