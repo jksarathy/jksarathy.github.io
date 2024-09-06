@@ -5,6 +5,21 @@ layout: default
 
 <hr>
 
+### Working Papers
+
+<hr>
+
+**ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical Adversaries**\
+with Rachel Cummings, Shlomi Hod, and Marika Swanberg\
+Presented at Foundations of Responsible Computing, 2024.\
+[arXiv](https://arxiv.org/pdf/2405.01716)
+
+**From Algorithmic to Institutional Logics: The Politics of Differential Privacy**\
+Presented at Privacy Law Scholars Conference, 2021.\
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4079222)
+
+<hr>
+
 ### Peer-Reviewed Publications
 
 <hr>
@@ -18,11 +33,6 @@ Proceedings on Privacy Enhancing Technologies, 2025.\
 **"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**\
 with Patrick Song, Michael Shoemate, and Salil Vadhan\
 To appear at the ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2024.
-
-**ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical Adversaries**\
-with Rachel Cummings, Shlomi Hod, and Marika Swanberg\
-Presented at Foundations of Responsible Computing, 2024.\
-[arXiv](https://arxiv.org/pdf/2405.01716)
 
 **Centering Policy and Practice: Research Gaps around Usable Differential Privacy**\
 with Rachel Cummings\
@@ -51,7 +61,6 @@ with Jörg Drechsler, Ira Globus-Harris, Audra McMillan, and Adam Smith\
 Journal of Survey Statistics and Methodology, 2022.\
 Presented at Theory and Practice of Differential Privacy, 2021.\
 [arXiv](https://arxiv.org/abs/2106.10333) | [publisher's version](https://academic.oup.com/jssam/article/10/3/804/6609829?login=false)
-
  
 **Differentially Private Simple Linear Regression**\
 with Daniel Alabi, Audra McMillan, Adam Smith, and Salil Vadhan\
@@ -69,16 +78,6 @@ Presented at Digital Library Federation Forum, 2020 and DIMACS Workshop on Co-De
 with Kenneth Michelson, Chris Rees, Paige VonAchen, Michael Wornow, Michael Monuteaux, and Mark Neuman\
 Clinical Infectious Diseases, 2020.\
 [publisher's version](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1549/5920707)
-
-<hr>
-
-### Working Papers
-
-<hr>
-
-**From Algorithmic to Institutional Logics: The Politics of Differential Privacy**\
-Presented at Privacy Law Scholars Conference, 2021.\
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4079222)
 
 <hr>
 
