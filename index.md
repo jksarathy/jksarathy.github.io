@@ -16,7 +16,7 @@ If you are interested in working with me as a PhD student, postdoc, or collabora
 
 <hr>
 
-### Selected Work
+#### Selected Work
 
 **Centering Policy and Practice: Research Gaps around Usable Differential Privacy**\
 with Rachel Cummings\
