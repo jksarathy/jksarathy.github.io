@@ -15,5 +15,5 @@ Previously, I was a graduate fellow at the [Edmond and Lily Safra Center for Eth
 If you are interested in working with me as a PhD student or postdoc, please reach out!
 
 <hr>
-<p align="center"><i class="fas fa-envelope"></i> js6514 [at] columbia [dot] edu <br/>
+<p align="center"><i class="fas fa-envelope"></i> j.sarathy [at] northeastern [dot] edu <br/>
 
