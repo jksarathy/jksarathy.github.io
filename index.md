@@ -6,7 +6,7 @@ layout: default
 
 <!-- <img class="profile-custom" src="profile.png"> -->
 
-Hello! I am a senior research fellow at Northeastern University. In Spring 2026, I will start as an assistant professor in Northeastern's [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/). I am interested in the sociotechnical dynamics of modernizing data practices, especially with respect to privacy and data access.
+I am a senior research fellow at Northeastern University. In Spring 2026, I will start as an assistant professor in Northeastern's [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/). I am interested in the sociotechnical dynamics of modernizing data practices, with a focus on privacy and data access.
  
 I completed my PhD in Computer Science (with a secondary in Science & Technology Studies) at Harvard University, where I was fortunate to be advised by [Salil Vadhan](https://salil.seas.harvard.edu/) and [Jonathan Zittrain](https://hls.harvard.edu/faculty/jonathan-l-zittrain/) and work within the [OpenDP](https://opendp.org/) team. My dissertation investigates the technical, social, and political dimensions of differential privacy. I then had a wonderful postdoc year at Columbia University's [Data Science Institute](https://datascience.columbia.edu/), advised primarily by [Rachel Cummings](https://rachelcummings.com/).
  
@@ -37,4 +37,5 @@ Presented at Privacy Law Scholars Conference, 2022.\
 
 <hr>
 <p align="center"><i class="fas fa-envelope"></i> j.sarathy [at] northeastern [dot] edu <br/>
+<p align="center"><i class="fas fa-envelope"></i> 177 Huntington Ave, 606 <br/>
 
