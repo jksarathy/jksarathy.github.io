@@ -91,7 +91,7 @@ Clinical Infectious Diseases, 2020.\
 
 **Comment on “NIST SP 800-226: Guidelines for Evaluating Differential Privacy Guarantees”**\
 with Rachel Cummings, Shlomi Hod, Gabriel Kaptchuk, Priyanka Nanayakkara, and Jeremy Seeman\
-Submitted as a public comment to NIST, 2024.\
+Public comment to NIST, 2024.\
 [pdf](https://www.cs.umd.edu/~kaptchuk/publications/nist24-dp-public-comment.pdf)
 
 **Defining Privacy-Loss Parameters of a Data Release**\
@@ -106,5 +106,5 @@ Presented at Computation+Journalism Conference, 2021.\
  
 **Efficient Multi-Key Verifiable Shuffles**\
 with Benedikt Bünz and Mariana Raykova\
-Working paper, last updated in 2021.\
+Paper last updated in 2021.\
 [pdf](bp_shuffle_2021.pdf)
