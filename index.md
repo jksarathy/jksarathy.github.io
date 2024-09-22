@@ -36,6 +36,6 @@ Presented at Privacy Law Scholars Conference, 2022.\
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077426) | [publisher's version](https://hdsr.mitpress.mit.edu/pub/3vj5j6i0)
 
 <hr>
-<p align="center"><i class="fas fa-envelope"></i> j.sarathy [at] northeastern [dot] edu <br/>
 <p align="center"><i class="fas fa-envelope"></i> 177 Huntington Ave, 606 <br/>
+<p align="center"><i class="fas fa-envelope"></i> j.sarathy [at] northeastern [dot] edu <br/>
 
