@@ -30,6 +30,10 @@ Presented at Theory and Practice of Differential Privacy, 2021.\
 Proceedings on Privacy Enhancing Technologies, 2025.\
 [arXiv](https://arxiv.org/abs/2207.13289)
 
+**Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the US Census**
+with danah boyd\
+Critical Sociology, 2024.
+
 **"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**\
 with Patrick Song, Michael Shoemate, and Salil Vadhan\
 To appear at the ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2024.
@@ -89,6 +93,11 @@ Clinical Infectious Diseases, 2020.\
 with Rachel Cummings, Shlomi Hod, Gabriel Kaptchuk, Priyanka Nanayakkara, and Jeremy Seeman\
 Submitted as a public comment to NIST, 2024.\
 [pdf](https://www.cs.umd.edu/~kaptchuk/publications/nist24-dp-public-comment.pdf)
+
+**Defining Privacy Loss Parameters of a Data Release**\\
+chapter in the "Hands-on Differential Privacy" textbook by Ethan Cowan, Michael Shoemate, and Mayana Pereira
+O'Reilly Media, 2024.\
+[publisher's version](https://www.oreilly.com/library/view/hands-on-differential-privacy/9781492097730/)
  
 **Ring Signatures for Anonymous Sourcing in Journalism**\
 with Catherine Kerner\
