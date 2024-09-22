@@ -94,8 +94,8 @@ with Rachel Cummings, Shlomi Hod, Gabriel Kaptchuk, Priyanka Nanayakkara, and Je
 Submitted as a public comment to NIST, 2024.\
 [pdf](https://www.cs.umd.edu/~kaptchuk/publications/nist24-dp-public-comment.pdf)
 
-**Defining Privacy Loss Parameters of a Data Release**\
-chapter in the "Hands-on Differential Privacy" textbook by Ethan Cowan, Michael Shoemate, and Mayana Pereira\
+**Defining Privacy-Loss Parameters of a Data Release**\
+chapter in the "Hands-On Differential Privacy" textbook by Ethan Cowan, Michael Shoemate, and Mayana Pereira\
 O'Reilly Media, 2024.\
 [publisher's version](https://www.oreilly.com/library/view/hands-on-differential-privacy/9781492097730/)
  
