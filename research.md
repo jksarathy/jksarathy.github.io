@@ -24,12 +24,6 @@ Presented at Privacy Law Scholars Conference, 2021.\
 
 <hr>
 
-**Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression**\
-with Salil Vadhan\
-Proceedings on Privacy Enhancing Technologies, 2025.\
-Presented at Theory and Practice of Differential Privacy, 2021.\
-[arXiv](https://arxiv.org/abs/2207.13289)
-
 **Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the US Census**\
 with danah boyd\
 Critical Sociology, 2024.
@@ -59,6 +53,12 @@ Presented at Privacy Law Scholars Conference, 2022.\
 with Mark Bun, Jörg Drechsler, Marco Gaboardi, and Audra McMillan\
 Foundations of Responsible Computing, 2022.\
 [arXiv](https://arxiv.org/pdf/2007.12674.pdf) | [publisher's version](https://drops.dagstuhl.de/opus/volltexte/2022/16524/)
+
+**Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression**\
+with Salil Vadhan\
+Proceedings on Privacy Enhancing Technologies, 2025.\
+Presented at Theory and Practice of Differential Privacy, 2021.\
+[arXiv](https://arxiv.org/abs/2207.13289)
  
 **Nonparametric Differentially Private Confidence Intervals for the Median**\
 with Jörg Drechsler, Ira Globus-Harris, Audra McMillan, and Adam Smith\
