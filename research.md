@@ -30,7 +30,7 @@ Presented at Theory and Practice of Differential Privacy, 2021.\
 Proceedings on Privacy Enhancing Technologies, 2025.\
 [arXiv](https://arxiv.org/abs/2207.13289)
 
-**Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the US Census**
+**Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the US Census**\
 with danah boyd\
 Critical Sociology, 2024.
 
