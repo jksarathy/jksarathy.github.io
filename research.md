@@ -26,8 +26,8 @@ Presented at Privacy Law Scholars Conference, 2021.\
 
 **Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression**\
 with Salil Vadhan\
-Presented at Theory and Practice of Differential Privacy, 2021.\
 Proceedings on Privacy Enhancing Technologies, 2025.\
+Presented at Theory and Practice of Differential Privacy, 2021.\
 [arXiv](https://arxiv.org/abs/2207.13289)
 
 **Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the US Census**\
@@ -36,7 +36,7 @@ Critical Sociology, 2024.
 
 **"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**\
 with Patrick Song, Michael Shoemate, and Salil Vadhan\
-To appear at the ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2024.
+ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2024.
 
 **Centering Policy and Practice: Research Gaps around Usable Differential Privacy**\
 with Rachel Cummings\
