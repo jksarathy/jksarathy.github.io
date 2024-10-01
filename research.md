@@ -26,7 +26,8 @@ Presented at Privacy Law Scholars Conference, 2021.\
 
 **Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the US Census**\
 with danah boyd\
-Critical Sociology, 2024.
+Critical Sociology, 2024.\
+[publisher's version](https://journals.sagepub.com/doi/abs/10.1177/08969205241270898)
 
 **"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**\
 with Patrick Song, Michael Shoemate, and Salil Vadhan\
