@@ -31,7 +31,8 @@ Critical Sociology, 2024.\
 
 **"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**\
 with Patrick Song, Michael Shoemate, and Salil Vadhan\
-ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2024.
+ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2024.\
+[arXiv](https://arxiv.org/abs/2410.09721)
 
 **Centering Policy and Practice: Research Gaps around Usable Differential Privacy**\
 with Rachel Cummings\
