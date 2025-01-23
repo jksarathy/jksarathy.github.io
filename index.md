@@ -18,6 +18,16 @@ If you are interested in working with me as a PhD student, postdoc, or collabora
 
 ### Selected Work
 
+**Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the US Census**\
+with danah boyd\
+Critical Sociology, 2024.\
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4978999) | [publisher's version](https://journals.sagepub.com/doi/abs/10.1177/08969205241270898)
+
+**"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**\
+with Patrick Song, Michael Shoemate, and Salil Vadhan\
+ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2024.\
+[arXiv](https://arxiv.org/abs/2410.09721) | [publisher's version](https://dl.acm.org/doi/10.1145/3687011)
+
 **Centering Policy and Practice: Research Gaps around Usable Differential Privacy**\
 with Rachel Cummings\
 IEEE Conference on Trust Privacy and Security in Intelligent Systems and Applications, 2023.\
