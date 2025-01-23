@@ -12,7 +12,7 @@ I completed my PhD in Computer Science (with a secondary in Science & Technology
  
 Previously, I was a graduate fellow at the [Edmond and Lily Safra Center for Ethics](https://ethics.harvard.edu/) and an intern at Microsoft Research's [Social Media Collective](https://socialmediacollective.org/) mentored by [danah boyd](http://www.danah.org/). Before that, I played four years of varsity golf at Yale University.<i class="em em-woman-golfing" aria-role="presentation" aria-label="GOLF"></i>
  
-If you are interested in working with me as a PhD student, postdoc, or collaborator, please reach out!
+If you are interested in working with me as a student, postdoc, or collaborator, please reach out!
 
 <hr>
 
