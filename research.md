@@ -85,12 +85,12 @@ Clinical Infectious Diseases, 2020.\
 
 <hr>
 
-**Increasing Responsible Data Sharing Capacity throughout Government**
+**Increasing Responsible Data Sharing Capacity throughout Government**\
 with  Rachel Cummings, Shlomi Hod, Palak Jain, Gabriel Kaptchuk, Tamalika Mukherjee, Priyanka Nanayakkara, and Jeremy Seeman\
 Policy memo, Federation of American Scientists, 2025.\
 [memo](https://fas.org/publication/increasing-responsible-data-sharing-capacity-throughout-government/)
 
-**Response to the RFI on Executive Branch Agency Handling of Commercially Available Information Containing Personally Identifiable Information**
+**Response to the RFI on Executive Branch Agency Handling of Commercially Available Information Containing Personally Identifiable Information**\
 with Rachel Cummings, Shlomi Hod, Palak Jain, Gabriel Kaptchuk, Tamalika Mukherjee, Priyanka Nanayakkara\
 Public comment to OMB, 2024.\
 [pdf](https://thepalakjain.com/wp-content/uploads/2025/01/cai_rfi.pdf)
