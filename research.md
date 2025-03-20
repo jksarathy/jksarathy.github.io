@@ -42,13 +42,11 @@ IEEE Conference on Trust Privacy and Security in Intelligent Systems and Applica
 **Dont Look at the Data! How Differential Privacy Reconfigures the Practices of Data Science**\
 with Sophia Song, Audrey Haque, Tania Schlatter, and Salil Vadhan\
 ACM CHI Conference on Human Factors in Computing Systems, 2023\
-Presented at Theory and Practice of Differential Privacy, 2022.\
 [arXiv](https://arxiv.org/abs/2302.11775) | [publisher's version](https://dl.acm.org/doi/abs/10.1145/3544548.3580791)
  
 **Differential Perspectives: Epistemic Disconnects Surrounding the US Census Bureau’s Use of Differential Privacy**\
 with danah boyd\
 Harvard Data Science Review, 2022.\
-Presented at Privacy Law Scholars Conference, 2022.\
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077426) | [publisher's version](https://hdsr.mitpress.mit.edu/pub/3vj5j6i0)
  
 **Controlling Privacy Loss in Sampling Schemes: An Analysis of Stratified and Cluster Sampling**\
@@ -59,25 +57,21 @@ Foundations of Responsible Computing, 2022.\
 **Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression**\
 with Salil Vadhan\
 Proceedings on Privacy Enhancing Technologies, 2025.\
-Presented at Theory and Practice of Differential Privacy, 2021.\
-[arXiv](https://arxiv.org/abs/2207.13289)
+[arXiv](https://arxiv.org/abs/2207.13289) | [publisher's version](https://www.petsymposium.org/popets/2025/popets-2025-0013.pdf)
  
 **Nonparametric Differentially Private Confidence Intervals for the Median**\
 with Jörg Drechsler, Ira Globus-Harris, Audra McMillan, and Adam Smith\
 Journal of Survey Statistics and Methodology, 2022.\
-Presented at Theory and Practice of Differential Privacy, 2021.\
 [arXiv](https://arxiv.org/abs/2106.10333) | [publisher's version](https://academic.oup.com/jssam/article/10/3/804/6609829?login=false)
  
 **Differentially Private Simple Linear Regression**\
 with Daniel Alabi, Audra McMillan, Adam Smith, and Salil Vadhan\
 Proceedings on Privacy Enhancing Technologies, 2022.\
-Presented at Theory and Practice of Differential Privacy, 2020.\
 [arXiv](https://arxiv.org/abs/2007.05157) | [publisher's version](https://petsymposium.org/popets/2022/popets-2022-0041.php)
 
 **‘Time Capsule’ Archiving Through Strong Dark Archives (SDA): Designing Trustable Distributed Archives for Sensitive Materials**\
 with John Bowers, Jack Cushman, and Jonathan Zittrain\
 Journal of Archival Organization, 2022.\
-Presented at Digital Library Federation Forum, 2020 and DIMACS Workshop on Co-Development of Computer Science and Law, 2020.\
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4124742) | [publisher's version](https://www.tandfonline.com/doi/abs/10.1080/15332748.2022.2110552?journalCode=wjao20)
 
 **Inter-Region Transfers for Pandemic Surges**\
@@ -90,6 +84,16 @@ Clinical Infectious Diseases, 2020.\
 ### Other Work
 
 <hr>
+
+**Increasing Responsible Data Sharing Capacity throughout Government**
+with  Rachel Cummings, Shlomi Hod, Palak Jain, Gabriel Kaptchuk, Tamalika Mukherjee, Priyanka Nanayakkara, and Jeremy Seeman\
+Policy memo, Federation of American Scientists, 2025.\
+[memo](https://fas.org/publication/increasing-responsible-data-sharing-capacity-throughout-government/)
+
+**Response to the RFI on Executive Branch Agency Handling of Commercially Available Information Containing Personally Identifiable Information**
+with Rachel Cummings, Shlomi Hod, Palak Jain, Gabriel Kaptchuk, Tamalika Mukherjee, Priyanka Nanayakkara\
+Public comment to OMB, 2024.\
+[pdf](https://thepalakjain.com/wp-content/uploads/2025/01/cai_rfi.pdf)
 
 **Comment on “NIST SP 800-226: Guidelines for Evaluating Differential Privacy Guarantees”**\
 with Rachel Cummings, Shlomi Hod, Gabriel Kaptchuk, Priyanka Nanayakkara, and Jeremy Seeman\
