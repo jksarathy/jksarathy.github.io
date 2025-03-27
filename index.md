@@ -6,7 +6,7 @@ layout: default
 
 <!-- <img class="profile-custom" src="profile.png"> -->
 
-Welcome! I am a senior research fellow and incoming assistant professor in Northeastern's [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/). I am interested in the sociotechnical dynamics of data analysis, with a focus on privacy, trust, and data access.
+Welcome! I am a senior research fellow and incoming assistant professor in Northeastern's [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/). I am interested in the sociotechnical dynamics of data science, with a focus on privacy, trust, and data access.
  
 I completed my PhD in Computer Science (with a secondary in Science & Technology Studies) at Harvard University, where I was fortunate to be advised by [Salil Vadhan](https://salil.seas.harvard.edu/) and [Jonathan Zittrain](https://hls.harvard.edu/faculty/jonathan-l-zittrain/) and work within the [OpenDP](https://opendp.org/) team. I had a wonderful postdoc year at Columbia University's [Data Science Institute](https://datascience.columbia.edu/), advised primarily by [Rachel Cummings](https://rachelcummings.com/).
  
@@ -47,5 +47,5 @@ Presented at Privacy Law Scholars Conference, 2022.\
 
 <hr>
 <p align="center"><i class="fas fa-envelope"></i> 177 Huntington Ave, 606 <br/>
-<p align="center"><i class="fas fa-envelope"></i> j.sarathy [at] northeastern [dot] edu <br/>
+<p align="center"><i class="fas fa-envelope"></i> j [dot] sarathy [at] northeastern [dot] edu <br/>
 
