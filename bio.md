@@ -1,7 +1,10 @@
-<figure>
-    <img class="profile-custom" src="profile.png">
-    <figcaption>[High-quality version](https://jayshreesarathy.net/hq_profile.png)</figcaption>
+<figure class="profile-custom">
+  <img src="profile.png" alt="photo of Jayshree Sarathy">
+  <figcaption>
+    <a href="https://jayshreesarathy.net/hq_profile.png">High-quality version here</a>
+  </figcaption>
 </figure>
+
 
 Jayshree Sarathy is a senior research fellow and incoming assistant professor in Computer Science at Northeastern University.
 Her work draws on perspectives from computer science and technology studies to study responsible data science. Currently, she is analyzing open data and privacy initiatives within the U.S. federal statistical system and the Wikimedia Foundation.
