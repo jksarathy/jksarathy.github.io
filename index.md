@@ -36,13 +36,11 @@ IEEE Conference on Trust Privacy and Security in Intelligent Systems and Applica
 **Dont Look at the Data! How Differential Privacy Reconfigures the Practices of Data Science**\
 with Sophia Song, Audrey Haque, Tania Schlatter, and Salil Vadhan\
 ACM CHI Conference on Human Factors in Computing Systems, 2023\
-Presented at Theory and Practice of Differential Privacy, 2022.\
 [arXiv](https://arxiv.org/abs/2302.11775) | [publisher's version](https://dl.acm.org/doi/abs/10.1145/3544548.3580791)
  
 **Differential Perspectives: Epistemic Disconnects Surrounding the US Census Bureau’s Use of Differential Privacy**\
 with danah boyd\
 Harvard Data Science Review, 2022.\
-Presented at Privacy Law Scholars Conference, 2022.\
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077426) | [publisher's version](https://hdsr.mitpress.mit.edu/pub/3vj5j6i0)
 
 <hr>
