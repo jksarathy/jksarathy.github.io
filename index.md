@@ -16,6 +16,16 @@ If you are interested in working with me as a student, postdoc, or collaborator,
 
 <hr>
 
+### Selected Grants and Fellowships
+
+CRA Trustworthy AI Research Fellowship (Inaugural Fellow, 2025-26)
+
+NSF TIP Grant, ReDDDoT Phase 2, "Enabling Participatory Privacy Protections for AI Training Data" (Co-PI, 2024-27)
+
+Harvard Edmond and Lily Safra Center for Ethics (Graduate Fellow, 2022-23)
+
+<hr>
+
 ### Selected Work
 
 **Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the US Census**\
