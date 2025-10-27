@@ -1,0 +1,34 @@
+
+You can use this data to understand country-specific patterns and trends regarding pageviews.
+The accuracy metric described above (the margin of error for each reported pageview) can help you calibrate your confidence in the results of your analysis. 
+
+_Let’s walk through an example._ Suppose the ```country_may_rounded``` contains the following rows: 
+
+| ```project``` | ```page_title``` | ```country```  | ```country_code``` | ```rounded_views```  | ```year ```| ```month``` | ```day```|
+|---------------|------------------|----------------|--------------------|----------------------|------------|-------------|----------|
+| en.wikipedia  | Page A           | United States  | US                 | 2000                 | 2024       | 5           | 3        |
+| en.wikipedia  | Page B           | France         | FR                 | 2000                 | 2024       | 5           | 3        |
+| en.wikipedia  | Page C           | India          | IN                 | 3000                 | 2024       | 5           | 3        |
+
+How can you use this information to understand each page’s ```original_views``` values for that same project, country, and date?
+
+**Using ```rounded_views```, what are some things you CAN deduce about ```original_views```?**
+
+- _About a single page, e.g. page A:_
+    - You _can_ use the margin of error provided above (see "How does privacy protection affect accuracy...") for the ```rounded_views``` value to say some things for certain (i.e. with 100% confidence) about page A’s ```original_views``` value.
+    For example, you can say for certain that page A’s ```original_views``` value is between 1901 and 2000. 
+
+- _About multiple pages:_
+    - You _can_ use the margin of error provided for the ```rounded_views``` value to say some things for certain (i.e. with 100% confidence) when comparing pages A, B, and C’s ```original_views``` values.
+    For example, you can say for certain that page A's and page B’s ```original_views``` values are both less than page C’s ```original_views``` value.
+
+**Using ```rounded_views```, what are some things you CANNOT deduce about the ```original_views```?**
+- _About a single page, e.g. page A:_
+    - You _cannot_ make additional deductions about page A’s ```original_views``` value.
+    For example, you cannot deduce whether page A’s ```original_views``` value is closer to 2000 than it is to 1901.
+
+- _About multiple pages:_
+    - You _cannot_ make additional deductions when comparing pages A, B, and C’s ```original_views``` values.
+    For example, you cannot deduce which of page A’s and page B’s ```original_views``` values is closer to page C’s ```original_views``` value.
+
+- You _cannot_ make statements or deductions about pages with ```rounded_views``` counts less than 1,100.

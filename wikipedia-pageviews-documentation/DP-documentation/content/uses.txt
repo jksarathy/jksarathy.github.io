@@ -1,0 +1,36 @@
+You can use this dataset to understand country-specific patterns and trends regarding pageviews.
+The accuracy metric described above (the 95% margin of error for each reported pageview) can help you calibrate your confidence in the results of your analysis.
+
+_Let's walk through an example._ Suppose the ```country_may_dp dataset``` contains the following rows:
+
+| ```project``` | ```page_title``` | ```country```  | ```country_code``` | ```dp_views``` | ```year ```| ```month``` | ```day```|
+|---------------|------------------|----------------|--------------------|----------------|------------|-------------|----------|
+| en.wikipedia  | Page A           | United States  | US                 | 203            | 2024       | 5           | 3        |
+| en.wikipedia  | Page B           | France         | FR                 | 203            | 2024       | 5           | 3        |
+| en.wikipedia  | Page C           | India          | IN                 | 298            | 2024       | 5           | 3        |
+
+
+How can you use this information to understand each page's ```original_views``` values for that same project, country, and date?
+
+**Using ```dp_views```, what are some things you CAN deduce about ```original_views```?**
+
+- _About a single page, e.g. page A:_
+    - You _can_ use the 95% margin of error provided above (see "How does privacy protection affect accuracy...") (±35.7) for the ```dp_views``` value to make deductions about page A’s ```original_views``` value.
+    For example, you can deduce that with 95% probability, page A’s ```original_views``` value is between 164.3 and 235.7 (203 ± 35.7).
+
+- _About multiple pages:_
+    - You _can_ use the 95% margin of error provided for the ```dp_views``` value to make some deductions when comparing pages A, B, and C’s ```original_views``` values.
+    For example, you can deduce that with at least 95% probability, page B’s original ```views``` value is less than page C’s ```original_views``` value.
+
+- For any row that does not appear in the dataset, you can deduce with 95% probability that its ```original_views``` value is ≤125.7 pageviews (the lower threshold 90 + the 95% margin of error 35.7)
+
+***Using dp_views, what are some things you CANNOT deduce about ```original_views```?***
+
+- _About a single page, e.g. page A:_
+    - You _cannot_ say anything for certain (i.e., with 100% confidence) about page A’s ```original_views``` value. For example, you cannot know for certain whether page A’s ```original_views``` value is above or below 203. 
+
+- _About multiple pages:_
+    - You _cannot_ say anything for certain (i.e., with 100% confidence) when comparing page A’s ```original_views``` value with page B’s ```original_views``` value.
+    For example, you cannot know for certain whether page A’s ```original_views``` value is the same as page B’s ```original_views``` value.
+
+

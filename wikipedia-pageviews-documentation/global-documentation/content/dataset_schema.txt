@@ -1,0 +1,8 @@
+| Variable name       | Type     | Description                                                                                                                                                | Example value |
+|---------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| ```project```       | string   | The site on which pageviews occurred                                                                                                                                 | en.wikipedia  |
+| ```page_title```    | string   | The Wikipedia page on which pageviews occurred                                                                                                                        | Taylor_Swift  |
+| ```views```         | integer  | The number of pageviews                                                                                                                                    | 109,815       |
+| ```year```          | integer  | The year in which pageviews were made                                                                                                                      | 2024          |
+| ```month```         | integer  | The month in which pageviews were made; 1 = January … 12 = December                                                                                        | 4             |
+| ```day```           | integer  | The day in which pageviews were made                                                                                                                       | 21            |

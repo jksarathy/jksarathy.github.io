@@ -1,0 +1,2 @@
+The ```country_may_dp dataset``` contains at most 10 unique pageviews from each device per day.
+This is done to reduce the impact of bots and to protect user privacy. 

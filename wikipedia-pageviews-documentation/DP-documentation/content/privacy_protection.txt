@@ -1,0 +1,9 @@
+The original counts of pageviews are not included in the dataset for privacy reasons.
+Instead, the original counts are replaced by privacy-protected counts (i.e., ```dp_views```).
+Specifically, each original count is replaced with a randomly drawn value from a normal distribution centered around the original, unprotected count.
+Figure 2 depicts this process:
+
+<figure style="text-align: center;">
+    <img src="content/DP-diagram.svg" alt="DP diagram" width="120%">
+    <figcaption>Figure 2: Privacy-protected pageviews using differential privacy </figcaption>
+</figure>

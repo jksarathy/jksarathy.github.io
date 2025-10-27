@@ -1,0 +1,10 @@
+| Variable name     | Type     | Description                                                                                                                                                | Example value |
+|-------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| ```project```     | string   | The site on which pageviews occurred                                                                                                                                 | en.wikipedia  |
+| ```page_title```  | string   | The Wikipedia page on which pageviews occurred                                                                                                                        | Taylor_Swift  |
+| ```country```     | string   | The name of the country where these views occurred                                                                                                         | France        |
+| ```country_code```| string   | The [2-letter ISO code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements) of the country where these views occurred      | FR            |
+| ```dp_views```    | integer  | The number of pageviews reported using differential privacy                                                                                                | 4,127         |
+| ```year```        | integer  | The year in which pageviews were made                                                                                                                      | 2024          |
+| ```month```       | integer  | The month in which pageviews were made; 1 = January … 12 = December                                                                                        | 5             |
+| ```day```         | integer  | The day in which pageviews were made                                                                                                                       | 9             |

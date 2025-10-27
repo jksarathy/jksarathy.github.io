@@ -1,0 +1,2 @@
+Counts reported in the ```rounded_views``` variable are between 0 and 99 pageviews greater than their (unreported) original counts.
+Note that dropping counts less than or equal to 1000 also affects the accuracy of published data.

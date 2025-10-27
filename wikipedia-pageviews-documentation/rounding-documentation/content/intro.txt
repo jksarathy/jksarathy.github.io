@@ -1,0 +1,14 @@
+This dataset (```country_may_rounded```) describes the number of pageviews by country on Wikipedia articles for each day within May 1-10, 2024.
+This dataset was created to highlight trends of Wikipedia traffic patterns on a regional or national level that may not be visible at a global level.
+This dataset contains 86,356 records.
+
+In this dataset, the ```rounded_views``` variable is reported using rounding.
+Rounding involves replacing a value in a dataset, such as count of pageviews, with an approximate value.
+The use of rounding in this setting is intended to protect user privacy while maintaining overall patterns in the data.
+
+Figure 1 is a flowchart depicting how this data is processed from beginning to end.
+
+<figure style="text-align: center;">
+    <img src="content/rounding-flowchart.png" alt="Rounding flowchart" width="100%">
+    <figcaption>Figure 1: A flowchart showing how rounded data is processed in this data pipeline</figcaption>
+</figure>

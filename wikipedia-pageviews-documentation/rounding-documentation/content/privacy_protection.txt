@@ -1,0 +1,11 @@
+The original counts of pageviews are not included in the dataset for privacy reasons.
+Instead, the original counts are replaced by privacy-protected counts (i.e., ```rounded_views```).
+Specifically, each original count is replaced by that count rounded up to the next 100 (e.g., a count of 1,001 would be reported as 1,100).
+Figure 2 depicts this process.
+
+Records with a ```rounded_views ``` value less than or equal to 1,000 were not included in the dataset to further protect privacy.
+
+<figure style="text-align: center;">
+    <img src="content/rounding-diagram.png" alt="Rounding diagram" width="100%">
+    <figcaption>Figure 2: Privacy-protected pageviews using rounding</figcaption>
+</figure>

@@ -1,0 +1,10 @@
+This dataset (```country_may_dp```) describes the number of pageviews by country on Wikipedia articles for each day within May 1-10, 2024. This dataset was created to highlight trends of Wikipedia traffic patterns on a regional or national level that may not be visible at a global level. This dataset contains 4,280,528 records. 
+
+In this dataset, the ```dp_views``` variable is protected under differential privacy. Differential privacy is an approach to data sharing which involves injecting statistical noise into released statistics—like counts of pageviews—while maintaining overall patterns in the data. The added noise limits anyone’s ability to recover information about specific people using the published dataset. 
+
+Figure 1 is a flowchart depicting how this data is processed from beginning to end.
+
+<figure style="text-align: center;">
+    <img src="content/DP-flowchart.png" alt="DP flowchart" width="100%">
+    <figcaption>Figure 1: A flowchart showing how DP data is processed in this data pipeline</figcaption>
+</figure>

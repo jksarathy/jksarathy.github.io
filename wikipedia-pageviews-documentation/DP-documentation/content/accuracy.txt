@@ -1,0 +1,6 @@
+The 95% margin of error for each reported value in the ```dp_views``` variable is 35.7 pageviews.
+
+What does this mean? The reported privacy-protected count is within 35.7 pageviews of the (unreported) original count, with 95% probability over the random sampling of the privacy-protected count (see Figure 1).
+
+Only rows with a ```dp_views``` count greater than or equal to 90 are reported in the dataset.
+This is done to reduce the number of spurious records (records with an original count of 0 that are reported to be above 0 in the ```dp_views``` variable).

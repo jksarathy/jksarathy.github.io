@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>DP Documentation</title>
+    <style>
+        body {
+            margin: 20px;
+            font-family: Arial, sans-serif;
+        }
+        .section {
+            margin: 40px auto;
+            max-width: 800px;
+        }
+        .collapsible {
+            background-color: gray;
+            color: white;
+            cursor: pointer;
+            padding: 10px;
+            border: none;
+            text-align: left;
+            width: 100%;
+            font-size: 16px;
+        }
+        .content {
+            display: none;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 8px;
+            background-color: #F5F5F5;
+        }
+
+        th{
+            background-color: #E1E1E1;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="container">
+
+        <div class="section">
+            <h1>Pageviews by Country Dataset (Differential Privacy)</h1>
+            <hr>
+            <div id="intro"></div>
+        </div>
+   
+        <!-- Dataset Schema -->
+        <div class="section">
+            <h2>Dataset Schema</h2>
+            <hr>
+            <div id="dataset_schema"></div>
+        </div>
+
+        <!-- Pre-processing -->
+        <div class="section">
+            <h2>How were the data pre-processed?</h2>
+            <hr>
+            <div id="preprocessing"></div>
+        </div>
+
+        <!-- Privacy protection -->
+        <div class="section">
+            <h2>How was privacy protection applied?</h2>
+            <hr>
+            <div id="privacy_protection"></div>
+
+            <button class="collapsible">Click for advanced information about the implementation of differential privacy</button>
+            <div class="content" id="advanced_DP_info"></div>
+        </div>
+
+        <!-- Accuracy -->
+        <div class="section">
+            <h2>How does privacy protection affect the accuracy of the published data?</h2>
+            <hr>
+            <div id="accuracy"></div>
+        </div>
+
+        <!-- Uses -->
+        <div class="section">
+            <h2>How can you use the published data?</h2>
+            <hr>
+            <div id="uses"></div>
+        </div>
+    </div>
+
+    <script>
+        // Function to load content from separate files
+        function loadContent(sectionId, fileName) {
+            fetch(fileName)
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById(sectionId).innerHTML = marked.parse(data);
+                });
+        }
+
+        // Load content from txt files, read as markdown
+        loadContent('intro', 'content/intro.txt');
+        loadContent('dataset_schema', 'content/dataset_schema.txt');
+        loadContent('preprocessing', 'content/preprocessing.txt');
+        loadContent('privacy_protection', 'content/privacy_protection.txt');
+        loadContent('advanced_DP_info', 'content/advanced_DP_info.txt');
+        loadContent('accuracy', 'content/accuracy.txt');
+        loadContent('uses', 'content/uses.txt');
+
+        // Advanced DP info collabsible
+        document.querySelector(".collapsible").addEventListener("click", function() {
+            var content = this.nextElementSibling;
+            content.style.display = content.style.display === "block" ? "none" : "block";
+        });
+    </script>
+
+    <!-- Include Marked.js for Markdown rendering -->
+    <script src="https://cdn.jsdelivr.net/npm/marked@4.0.0/marked.min.js"></script>
+
+</body>
+</html>

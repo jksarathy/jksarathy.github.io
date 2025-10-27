@@ -1,0 +1,1 @@
+The ```country_may_rounded``` dataset contains the total number of unique pageviews (at most one pageview per device) for a given page in a day.

@@ -1,0 +1,4 @@
+Each ```dp_views``` count is draw from the distribution 𝒩(𝜇 = ```original_views```, 𝜎 = 18.2).
+The ```dp_views``` variable satisfies a variant of differential privacy called 𝜌-zero-concentrated differential privacy with a privacy-loss parameter of 𝜌 = 0.01505,
+which corresponds to (𝜀, 𝛿)-approximate differential privacy where 𝜀 = 1 and 𝛿 = 1e-7.
+These parameters were chosen based on the Wikimedia Foundation’s organizational policy and experimentation to calibrate the tradeoff between privacy protections and accuracy of the ```dp_views``` variable.

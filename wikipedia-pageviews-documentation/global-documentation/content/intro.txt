@@ -1,0 +1,4 @@
+This dataset (```global_april_original```) describes the number of pageviews (globally, i.e., from users across the world) on Wikipedia articles per day on April 21 and 22, 2024.
+This dataset was created to highlight trends of Wikipedia traffic patterns on a global level.
+This dataset only contains pages that have received 25 or more pageviews on a given day.
+The dataset contains 5,575,509 records.
