@@ -11,8 +11,9 @@ layout: default
 
 **"Having Confidence in my Confidence Intervals": How Data Users Engage with Privacy-Protected Wikipedia Data**\
 with Hal Triedman, Priyanka Nanayakkara, Rachel Cummings, Gabriel Kaptchuk, Sean Kross, and Elissa M. Redmiles\
-<a href="./wikipedia-pageviews-documentation/DP-documentation/DP_documentation.html">DP Documentation</a>\
-<a href="./wikipedia-pageviews-documentation/rounding-documentation/rounding_documentation.html">Rounding Documentation</a>
+[<a href="./wikipedia-pageviews-documentation/global-documentation/global_documentation.html">Non-DP Documentation</a>], 
+[<a href="./wikipedia-pageviews-documentation/DP-documentation/DP_documentation.html">DP Documentation</a>], 
+[<a href="./wikipedia-pageviews-documentation/rounding-documentation/rounding_documentation.html">Rounding Documentation</a>]
 
 **ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical Adversaries**\
 with Rachel Cummings, Shlomi Hod, and Marika Swanberg\
