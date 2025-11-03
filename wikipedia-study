@@ -1,0 +1,93 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Artifacts</title>
+    <style>
+        body {
+            font-family: Georgia, 'Times New Roman', serif;
+            background: #ffffff;
+            max-width: 600px;
+            margin: 60px auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        h1 {
+            font-size: 1.8em;
+            font-weight: normal;
+            margin-bottom: 10px;
+        }
+
+        .authors {
+            font-style: italic;
+            color: #666;
+            margin-bottom: 25px;
+        }
+
+        .description {
+            margin-bottom: 40px;
+            line-height: 1.8;
+            padding-bottom: 30px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        h2 {
+            font-size: 1.2em;
+            font-weight: normal;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            color: #222;
+        }
+
+        .links {
+            list-style: none;
+            padding: 0;
+        }
+
+        .links li {
+            margin-bottom: 12px;
+        }
+
+        .link-card {
+            color: #0000EE;
+            text-decoration: underline;
+            font-size: 1.1em;
+        }
+
+        .link-card:visited {
+            color: #551A8B;
+        }
+
+        .link-card:hover {
+            color: #0000CC;
+        }
+    </style>
+</head>
+<body>
+    <h1>Research Artifacts for "Having Confidence in my Confidence Intervals"</h1>
+    <p class="authors">Hal Triedman, Jayshree Sarathy, Priyanka Nanayakkara, Rachel Cummings, Gabriel Kaptchuk, Sean Kross, and Elissa M. Redmiles</p>
+    
+    <div class="description">
+        <p>Below are the dataset documents and tasks given to participants in our user study.</p>
+    </div>
+    
+    <h2>Documentation for Wikipedia Pageview Datasets</h2>
+    <ul class="links">
+        <li><a href="./global-documentation/global_documentation.html" class="link-card">Non-Private Global Pageviews</a></li>
+        <li><a href="./DP-documentation/DP_documentation.html" class="link-card">DP Pageviews By Country</a></li>
+        <li><a href="./rounding-documentation/rounding_documentation.html" class="link-card">Rounded Pageviews By Country</a></li>
+    </ul>
+
+    <h2>Tasks</h2>
+    <ul class="links">
+        <li><a href="https://colab.research.google.com/drive/1oHE9a-2DnhB2qcUObnzRTiCHy5S9gz3f?usp=drive_link" class="link-card">Non-Private Global Pageviews</a></li>
+        <li><a href="https://colab.research.google.com/drive/16sfHMZmS4v6aVmVrFIH2ObT2kd5K7RB2?usp=drive_link" class="link-card">DP Pageviews by Country</a></li>
+        <li><a href="https://colab.research.google.com/drive/1XS_sfZVlFIHvXe6o7ljkvFkzKIAI9DlE?usp=drive_link" class="link-card">Rounded Pageviews by Country</a></li>
+    </ul>
+
+</body>
+</html>
