@@ -1,4 +1,6 @@
-Website was built using Ankit Sultana's [template](http://ankitsultana.com/researcher)
+Jayshree Sarathy's professional website.
+
+Credit: website was built using Ankit Sultana's [template](http://ankitsultana.com/researcher)
 
 ### License
 
