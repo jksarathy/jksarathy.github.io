@@ -77,9 +77,9 @@
     
     <h2>Documentation for Wikipedia Pageview Datasets</h2>
     <ul class="links">
-        <li><a href="./global-documentation/global_documentation.html" class="link-card">Non-Private Global Pageviews</a></li>
-        <li><a href="./DP-documentation/DP_documentation.html" class="link-card">DP Pageviews By Country</a></li>
-        <li><a href="./rounding-documentation/rounding_documentation.html" class="link-card">Rounded Pageviews By Country</a></li>
+        <li><a href="./wikipedia-pageviews-documentation/global-documentation/global_documentation.html" class="link-card">Non-Private Global Pageviews</a></li>
+        <li><a href="./wikipedia-pageviews-documentation/DP-documentation/DP_documentation.html" class="link-card">DP Pageviews By Country</a></li>
+        <li><a href="./wikipedia-pageviews-documentation/rounding-documentation/rounding_documentation.html" class="link-card">Rounded Pageviews By Country</a></li>
     </ul>
 
     <h2>Tasks</h2>
