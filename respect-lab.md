@@ -6,7 +6,7 @@ layout: default
 
 <hr>
 
-The ResPECT lab engages in robust, socio-technical analysis of data systems that shape science, public policy, and society. \\
+The ResPECT lab engages in robust, socio-technical analysis of data systems that shape science, public policy, and society. \
 A key focus area is privacy-preserving data access-- from analyzing the deployment of differential privacy in the 2020 US Census, to exploring how data users work with privacy-noised datasets released by the Wikimedia Foundation.
 
 We approach our work from critical, multidisciplinary perspectives including Human-Computer Interaction, Communication, Sociology, and Science & Technology Studies. 
@@ -15,9 +15,9 @@ We approach our work from critical, multidisciplinary perspectives including Hum
 
 We are looking for students who have:
 
-1) background in *two or more* of the following areas: HCI, data science, theoretical CS, security & privacy, science & technology studies, law, sociology \\
-2) willingness to work across multiple disciplines and take iniative in learning new skills \\
-3) excellent communication and project management skills \\
+1) background in *two or more* of the following areas: HCI, data science, theoretical CS, security & privacy, science & technology studies, law, sociology \
+2) willingness to work across multiple disciplines and take iniative in learning new skills \
+3) excellent communication and project management skills \
 4) strong interest in privacy & critical data studies, and unpacking how power and politics shapes our digital systems and scientific knowledge
 
 ## Why apply to Northeastern and the ResPECT Lab?
