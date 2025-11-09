@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Responsible Privacy-Enhancing Civic Tech Lab
 
 The ResPECT lab engages in robust, socio-technical analysis of data systems that shape science and public policy. 
