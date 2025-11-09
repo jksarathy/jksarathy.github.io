@@ -30,11 +30,11 @@ Northeastern also offers one of the highest PhD stipends in the country!
 
 The ResPECT lab occupies a unique space in CS, where you can do both critical and generative research about technology. It’s a rare opportunity to bridge CS & STS perspectives to address complex, modern challenges around data privacy and digital systems.
 
-## Instructions for applying
+## How to apply?
 
-Spend some time reading the lab’s work and reflect on what you want from your grad school experience. Consider if we are a good fit. If so, apply to the Northeastern CS PhD program and mark me as a potential advisor. Write a research statement that shows why you would be well-aligned with the lab and what you could contribute to the lab’s research agenda.
+Spend some time reading the lab’s work and consider if we are a good fit. If so, apply to the [Northeastern PhD program in Computer Science or Cybersecurity](https://www.khoury.northeastern.edu/apply/phd-apply/) and mark me as a potential advisor. Write a research statement that shows why you would be well-aligned with the ResPECT lab and what you could contribute to the lab’s mission and research agenda.
 
-If you would like to chat with me about the PhD program, you can send me an email. (Note that I am not likely to respond to messages generated or edited by AI, or with text copied from my website or papers.) Please share briefly: \
+If you would like to chat with me about the PhD program, you can send me an email. (Note that I am not likely to respond to messages generated using AI or with text copied from my website or papers.) Please share briefly: \
 (1) your research interests, \
 (2) why you think we’d be a good fit, and \
 (3) an idea for future work that builds on one of my existing papers. 
