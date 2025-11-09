@@ -9,7 +9,7 @@ layout: default
 The ResPECT lab engages in robust, socio-technical analysis of data systems that shape science, public policy, and society.
 A key focus area is privacy-preserving data access-- from analyzing the deployment of differential privacy in the 2020 US Census, to exploring how data users work with privacy-noised datasets released by the Wikimedia Foundation.
 
-We approach our work from critical, multidisciplinary perspectives including Human-Computer Interaction (HCI), CS Theory, Communication, Sociology, and Science & Technology Studies (STS). 
+We approach our work from critical, multidisciplinary perspectives including Human-Computer Interaction (HCI), Communication, Sociology, and Science & Technology Studies (STS). 
 
 ## Who would fit well?
 
