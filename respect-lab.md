@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Responsible Privacy-Enhancing Civic Tech Lab
+## Responsible Privacy-Enhancing Civic Tech Lab
+
+<hr>
 
 The ResPECT lab engages in robust, socio-technical analysis of data systems that shape science and public policy. 
 
@@ -10,7 +12,7 @@ A main area of focus is on privacy-preserving data access. Several of our prior 
 
 We approach our work from critical, multidisciplinary perspectives including Human-Computer Interaction, Communication, Sociology, and Science & Technology Studies. 
 
-# Who would fit well?
+## Who would fit well?
 
 We are looking for students who have:
 
@@ -19,13 +21,13 @@ We are looking for students who have:
 3) iniative, eye for detail, and excellent communication and project management skills
 4) strong interest in privacy & critical data studies, and unpacking how power and politics shapes our digital systems and scientific knowledge
 
-# Why apply to Northeastern and the ResPECT Lab?
+## Why apply to Northeastern and the ResPECT Lab?
 
 Northeastern is a top-ten PhD program for human computer interaction and cybersecurity. It also sits within a network of universities in the Boston, which is a hub for privacy research, and where you can benefit from interacting with researchers across all of these institutions. Northeastern also offers the highest PhD stipend in the country.
 
 The ResPECT lab occupies a unique space in CS – showing that it is possible to do highly technical & critical research about technology. It’s a rare opportunity to bridge CS & STS perspectives to advance complex, modern challenges around data privacy and digital systems.
 
-# Instructions for applying
+## Instructions for applying
 
 Spend some time reading the lab’s work and reflect on what you want from your grad school experience. Consider if we are a good fit. If so, apply to the Northeastern CS PhD program and mark me as a potential advisor. Write a research statement that shows why you would be well-aligned with the lab and what you could contribute to the lab’s research agenda.
 
