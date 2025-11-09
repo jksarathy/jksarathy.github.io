@@ -24,7 +24,7 @@ We are looking for students who have:
 
 Northeastern is a top-ten PhD program for human computer interaction and cybersecurity. It also sits in Boston's hub of cutting-edge privacy research, and you can benefit from interacting with researchers across all of these institutions. 
 
-Northeastern also offers the highest PhD stipend in the country!
+Northeastern also offers one of the highest PhD stipends in the country!
 
 The ResPECT lab occupies a unique space in CS, where you can do both critical and generative research about technology. It’s a rare opportunity to bridge CS & STS perspectives to address complex, modern challenges around data privacy and digital systems.
 
