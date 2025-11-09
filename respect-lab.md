@@ -15,7 +15,7 @@ We approach our work from critical, multidisciplinary perspectives including Hum
 
 We are looking for students who have:
 
-1) background in *two or more* of the following areas: HCI, data science, theoretical CS, security & privacy, science & technology studies, law, sociology \
+1) background in *two or more* of the following areas: HCI, data science, statistics, security & privacy, science & technology studies, law, sociology \
 2) willingness to work across multiple disciplines and take iniative in learning new skills \
 3) excellent communication and project management skills \
 4) strong interest in privacy & critical data studies, and unpacking how power and politics shapes our digital systems and scientific knowledge
