@@ -11,8 +11,12 @@ Welcome! I am a senior research fellow and incoming assistant professor in North
 I completed my PhD in Computer Science (with a secondary in Science & Technology Studies) at Harvard University, where I was fortunate to be advised by [Salil Vadhan](https://salil.seas.harvard.edu/) and [Jonathan Zittrain](https://hls.harvard.edu/faculty/jonathan-l-zittrain/) and work within the [OpenDP](https://opendp.org/) team. I had a wonderful postdoc year at Columbia University's [Data Science Institute](https://datascience.columbia.edu/), advised primarily by [Rachel Cummings](https://rachelcummings.com/).
  
 Previously, I was a graduate fellow at the [Edmond and Lily Safra Center for Ethics](https://ethics.harvard.edu/) and an intern at Microsoft Research's [Social Media Collective](https://socialmediacollective.org/) mentored by [danah boyd](http://www.danah.org/). Before that, I played four years of varsity golf at Yale University.<i class="em em-woman-golfing" aria-role="presentation" aria-label="GOLF"></i>
+
+<hr>
+
+### News
  
-If you are interested in working with me as a student, postdoc, or collaborator, please reach out!
+I am launching the Responsible Privacy-Enhancing Civic Tech (ResPECT) Lab at Northeastern. We are recruiting PhD students and postdocs! See [here](./respect-lab.html) for more info on how to apply.
 
 <hr>
 
