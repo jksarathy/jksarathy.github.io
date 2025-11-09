@@ -43,6 +43,6 @@ Include the word “Dragonfly” in the subject line to indicate you have read t
 
 <hr>
 
-*This page inspired by the lab page of my lovely collaborator, Gabriel Kaptchuk*
+*This page is inspired by the [lab page](https://www.cs.umd.edu/~kaptchuk/blog/post/work-with-me.html) of my lovely collaborator, Gabriel Kaptchuk.*
 
 
