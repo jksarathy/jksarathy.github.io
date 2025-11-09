@@ -22,5 +22,7 @@ nav:
    link: "research"
  - name: "Teaching"
    link: "teaching"
+ - name: "ResPECT Lab"
+   link: "respect-lab"
  - name: "Bio"
    link: "bio"
