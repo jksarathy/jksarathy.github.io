@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Responsible Privacy-Enhancing Civic Tech Lab
+## **R**esponsible **P**rivacy-**E**nhancing **C**ritical **T**ech Lab
 
 <hr>
 
@@ -15,7 +15,7 @@ We approach our work from critical, multidisciplinary perspectives including Hum
 
 We are looking for students who have:
 
-1) background in *two or more* of the following areas: HCI, theory, data science, statistics, security & privacy, science & technology studies, law, sociology \
+1) background in one or more of the following areas: HCI, theory, data science, statistics, security & privacy, science & technology studies, law, sociology \
 2) willingness to work across multiple disciplines and take iniative in learning new skills \
 3) excellent communication and project management skills \
 4) strong interest in privacy & critical data studies 
@@ -24,17 +24,17 @@ Prior research experience, especially using qualitative methods, is a plus but n
 
 ## Why apply to Northeastern and the ResPECT Lab?
 
-Northeastern is a top-ten PhD program for human computer interaction and cybersecurity. It also sits in Boston's hub of cutting-edge privacy research, and you can benefit from interacting with researchers across all of these institutions. 
+Northeastern is a top PhD program for HCI and cybersecurity. It also sits in Boston's hub of cutting-edge privacy research, and you can benefit from interacting with researchers across all of these institutions. 
 
 Northeastern also offers one of the highest PhD stipends in the country!
 
-The ResPECT lab occupies a unique space in CS, where you can do both critical and generative research about technology. It’s a rare opportunity to bridge CS & STS perspectives to address complex, modern challenges around data privacy and digital systems.
+The ResPECT lab occupies a unique space in CS, where you can do both critical and generative research about technology. It’s a rare opportunity to bridge CS & STS perspectives to address complex challenges around data privacy and digital systems.
 
 ## How to apply?
 
 Spend some time reading the lab’s work and consider if we are a good fit. If so, apply to the [Northeastern PhD program in Computer Science or Cybersecurity](https://www.khoury.northeastern.edu/apply/phd-apply/) and mark me as a potential advisor. Write a research statement that shows why you would be well-aligned with the ResPECT lab and what you could contribute to the lab’s mission and research agenda.
 
-If you would like to chat with me about the PhD program, you can send me an email. (Note that I am not likely to respond to messages generated using AI or with text copied from my website or papers.) Please share briefly: \
+If you would like to chat with me about the PhD program, you can send me an email. Please share briefly: \
 (1) your research interests, \
 (2) why you think we’d be a good fit, and \
 (3) an idea for future work that builds on one of my existing papers. 
