@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-## Research
-
-<hr>
-
 ### Draft Papers
 
 <hr>
