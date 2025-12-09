@@ -11,7 +11,7 @@ layout: default
 
 **"Having Confidence in my Confidence Intervals": How Data Users Engage with Privacy-Protected Wikipedia Data**\
 with Hal Triedman, Priyanka Nanayakkara, Rachel Cummings, Gabriel Kaptchuk, Sean Kross, and Elissa M. Redmiles\
-<a href="./wikipedia-study.html">Study materials</a> 
+[arXiv](https://arxiv.org/abs/2512.06534) | <a href="./wikipedia-study.html">Study materials</a> 
 
 **ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical Adversaries**\
 with Rachel Cummings, Shlomi Hod, and Marika Swanberg\
