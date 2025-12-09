@@ -7,32 +7,30 @@ layout: default
 <hr>
 
 The ResPECT lab engages in robust, socio-technical analysis of data systems that shape science, public policy, and society.
-A key focus area is privacy-preserving data access-- from analyzing the deployment of differential privacy in the 2020 US Census, to exploring how data users work with privacy-noised datasets released by the Wikimedia Foundation.
+A key focus area is privacy-preserving data access---from analyzing the deployment of differential privacy in the 2020 US Census, to exploring how data users work with privacy-noised datasets released by the Wikimedia Foundation.
 
 We approach our work from critical, multidisciplinary perspectives including Human-Computer Interaction (HCI), Communication, Sociology, and Science & Technology Studies (STS). 
 
-## Who would fit well?
+**We are hiring new students and postdocs!** You'd be a great fit if you have:
 
-We are looking for students who have:
-
-1) background in one or more of the following areas: HCI, theory, data science, statistics, security & privacy, STS, law, sociology \
+1) a strong interest in privacy & critical data studies
 2) willingness to work across multiple disciplines and learn new skills \
 3) excellent communication and project management skills \
-4) strong interest in privacy & critical data studies 
+4) (optional) background in any of the following areas: HCI, theory, data science, statistics, security & privacy, STS, law, sociology \
 
-Prior research experience is a plus but not required.
+Most importantly, we value kindness and curiousity. If you're looking to be part of a community that supports one another, values critical inquiry, and aims to make digital spaces respectful and just, we'd love to have you apply!
 
 ## Why apply to Northeastern and the ResPECT Lab?
 
-Northeastern is a top PhD program for HCI and cybersecurity. We have a vibrant intellectual community within the [Cybersecurity and Privacy Institute](https://cyber.northeastern.edu/), enabling you to collaborate with amazing faculty and students. You can also interact with researchers all across Boston's hub of cutting-edge privacy research. 
+Northeastern is a top PhD program for HCI and cybersecurity. We are lucky to have a warm, collegial environment within the [Cybersecurity and Privacy Institute](https://cyber.northeastern.edu/), and if you come here you'll be able to collaborate with amazing faculty and students beyond this lab. You can also interact with researchers all across Boston's hub of cutting-edge privacy research. 
 
-Northeastern also offers one of the highest PhD stipends in the country!
+Northeastern offers one of the highest PhD stipends in the country!
 
 The ResPECT lab occupies a unique space in CS, where you can do both critical and generative research about technology. It’s a rare opportunity to bridge CS & STS perspectives to address complex challenges around data privacy and digital systems.
 
 ## How to apply?
 
-Spend some time reading the lab’s work and consider if we are a good fit. If so, apply to the [Northeastern PhD program in Computer Science or Cybersecurity](https://www.khoury.northeastern.edu/apply/phd-apply/) and mark me as a potential advisor. Write a research statement that shows why you would be well-aligned with the ResPECT lab and what you could contribute to the lab’s mission and research agenda.
+If you think we might be a good fit, please apply to the [Northeastern PhD program in Computer Science or Cybersecurity](https://www.khoury.northeastern.edu/apply/phd-apply/) and mark me as a potential advisor. Write a research statement that shows why you would be well-aligned with the ResPECT lab and what you could contribute to the lab’s mission and research agenda.
 
 If you would like to chat with me about the PhD program, please send me an email sharing briefly: \
 (1) your research interests, \
