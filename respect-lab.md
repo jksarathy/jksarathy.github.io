@@ -13,10 +13,11 @@ We approach our work from critical, multidisciplinary perspectives including Hum
 
 **We are hiring new students and postdocs!** You'd be a great fit if you have:
 
-1) a strong interest in privacy & critical data studies
-2) willingness to work across multiple disciplines and learn new skills \
-3) excellent communication and project management skills \
-4) (optional) background in any of the following areas: HCI, theory, data science, statistics, security & privacy, STS, law, sociology \
+(1) a strong interest in privacy & critical data studies \
+(2) willingness to work across multiple disciplines and learn new skills \
+(3) excellent communication and project management skills 
+
+Background in any of the following areas is a plus but not required: HCI, theory, data science, statistics, security & privacy, STS, law, public policy, and sociology.
 
 Most importantly, we value kindness and curiousity. If you're looking to be part of a community that supports one another, values critical inquiry, and aims to make digital spaces respectful and just, we'd love to have you apply!
 
