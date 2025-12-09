@@ -187,9 +187,8 @@ mark{
 }
 
 .main-content {
-    flex: 1;
+    flex: 0 1 $max-width;
     min-width: 0;
-	max-width: $max-width;
 }
 
 /* Responsive for sidebar */
