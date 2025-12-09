@@ -16,7 +16,7 @@ Previously, I was a graduate fellow at the [Edmond and Lily Safra Center for Eth
 
 ### News
  
-I am launching the Responsible Privacy-Enhancing Civic Tech (ResPECT) Lab at Northeastern. We are recruiting PhD students and postdocs! See [here](./respect-lab.html) for more info on how to apply.
+I am launching the **Res**ponsible **P**rivacy-**E**nhancing **C**ivic **T**ech (ResPECT) Lab at Northeastern. We are recruiting PhD students and postdocs! See [here](./respect-lab.html) for info on how to apply.
 
 <hr>
 
