@@ -15,16 +15,16 @@ We approach our work from critical, multidisciplinary perspectives including Hum
 
 We are looking for students who have:
 
-1) background in one or more of the following areas: HCI, theory, data science, statistics, security & privacy, science & technology studies, law, sociology \
-2) willingness to work across multiple disciplines and take iniative in learning new skills \
+1) background in one or more of the following areas: HCI, theory, data science, statistics, security & privacy, STS, law, sociology \
+2) willingness to work across multiple disciplines and learn new skills \
 3) excellent communication and project management skills \
 4) strong interest in privacy & critical data studies 
 
-Prior research experience, especially using qualitative methods, is a plus but not required.
+Prior research experience is a plus but not required.
 
 ## Why apply to Northeastern and the ResPECT Lab?
 
-Northeastern is a top PhD program for HCI and cybersecurity. It also sits in Boston's hub of cutting-edge privacy research, and you can benefit from interacting with researchers across all of these institutions. 
+Northeastern is a top PhD program for HCI and cybersecurity. We have a vibrant intellectual community within the [Cybersecurity and Privacy Institute](https://cyber.northeastern.edu/), enabling you to collaborate with amazing faculty and students. You can also interact with researchers all across Boston's hub of cutting-edge privacy research. 
 
 Northeastern also offers one of the highest PhD stipends in the country!
 
@@ -34,10 +34,10 @@ The ResPECT lab occupies a unique space in CS, where you can do both critical an
 
 Spend some time reading the lab’s work and consider if we are a good fit. If so, apply to the [Northeastern PhD program in Computer Science or Cybersecurity](https://www.khoury.northeastern.edu/apply/phd-apply/) and mark me as a potential advisor. Write a research statement that shows why you would be well-aligned with the ResPECT lab and what you could contribute to the lab’s mission and research agenda.
 
-If you would like to chat with me about the PhD program, you can send me an email. Please share briefly: \
+If you would like to chat with me about the PhD program, please send me an email sharing briefly: \
 (1) your research interests, \
 (2) why you think we’d be a good fit, and \
-(3) an idea for future work that builds on one of my existing papers. 
+(3) an idea for future work that builds on existing papers. 
 
 Include the word “Dragonfly” in the subject line to indicate you have read through these instructions. If it seems like there is potential for collaboration, I'd love to chat.
 
