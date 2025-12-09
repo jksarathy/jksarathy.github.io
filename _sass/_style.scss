@@ -217,6 +217,48 @@ mark{
         text-align: left;
     }
 }
+
+/* Publication styling */
+
+.publication, .award {
+    margin-bottom: 20px;
+}
+
+.publication-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.publication-authors {
+    font-style: italic;
+    color: #555;
+    margin-bottom: 5px;
+    font-size: 0.95em;
+}
+
+.publication-venue {
+    color: #666;
+    margin-bottom: 5px;
+    font-size: 0.95em;
+}
+
+.publication-links a {
+    margin-right: 15px;
+    font-size: 0.95em;
+}
+
+.award-title {
+    font-weight: bold;
+}
+.publications-list p {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.publications-list p:last-child {
+    border-bottom: none;
+}
   
 
 @import "typography";
