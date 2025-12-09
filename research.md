@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-### Draft Papers
-
-<hr>
 
 **"Having Confidence in my Confidence Intervals": How Data Users Engage with Privacy-Protected Wikipedia Data**\
 with Hal Triedman, Priyanka Nanayakkara, Rachel Cummings, Gabriel Kaptchuk, Sean Kross, and Elissa M. Redmiles\
@@ -23,6 +20,11 @@ Presented at Privacy Law Scholars Conference, 2021.\
 ### Peer-Reviewed Publications
 
 <hr>
+
+**Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression**\
+with Salil Vadhan\
+Proceedings on Privacy Enhancing Technologies, 2025.\
+[arXiv](https://arxiv.org/abs/2207.13289) | [publisher's version](https://www.petsymposium.org/popets/2025/popets-2025-0013.pdf)
 
 **Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the US Census**\
 with danah boyd\
@@ -53,11 +55,6 @@ Harvard Data Science Review, 2022.\
 with Mark Bun, Jörg Drechsler, Marco Gaboardi, and Audra McMillan\
 Foundations of Responsible Computing, 2022.\
 [arXiv](https://arxiv.org/pdf/2007.12674.pdf) | [publisher's version](https://drops.dagstuhl.de/opus/volltexte/2022/16524/)
-
-**Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression**\
-with Salil Vadhan\
-Proceedings on Privacy Enhancing Technologies, 2025.\
-[arXiv](https://arxiv.org/abs/2207.13289) | [publisher's version](https://www.petsymposium.org/popets/2025/popets-2025-0013.pdf)
  
 **Nonparametric Differentially Private Confidence Intervals for the Median**\
 with Jörg Drechsler, Ira Globus-Harris, Audra McMillan, and Adam Smith\
