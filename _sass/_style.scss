@@ -259,6 +259,17 @@ mark{
 .publications-list p:last-child {
     border-bottom: none;
 }
+
+/* Awards list styling */
+.awards-list p {
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.awards-list p:last-child {
+    border-bottom: none;
+}
   
 
 @import "typography";
