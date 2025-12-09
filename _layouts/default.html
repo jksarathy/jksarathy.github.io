@@ -56,58 +56,6 @@
 </head>
 <body>
     <div class="wrapper">
-        <div class="navbar-container">
-            {% if page.is_contact == true %}
-                <div class="container content contact">
-            {% else %}
-                <div class="container content">
-            {% endif %}
-        </div>
-        
-        {% if page.show_sidebar == true %}
-            <div class="content-wrapper">
-                <aside class="sidebar">
-                    <img src="{{ site.baseurl }}/profile.jpg" alt="{{ site.author }}" class="profile-photo">
-                    
-                    <div class="contact-info">
-                        <p><strong>Address:</strong><br>177 Huntington Ave, 606</p>
-                        <p><strong>Email:</strong><br>j [dot] sarathy [at] northeastern [dot] edu</p>
-                    </div>
-                </aside>
-                
-                <div class="main-content">
-                    {{ content }}
-                    
-                    {% if site.footer == true %}
-                        <hr />
-                        <p style="text-align: center; margin-bottom: 10px">
-                        <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
-                        </p>
-                    {% endif %}
-                </div>
-            </div>
-        {% else %}
-            <div class="container">
-                {{ content }}
-                
-                {% if site.footer == true %}
-                    <hr />
-                    <p style="text-align: center; margin-bottom: 10px">
-                    <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
-                    </p>
-                {% endif %}
-            </div>
-        {% endif %}
-    {% if site.tracking_id %}
-        <script>
-          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-          ga('create', '{{ site.tracking_id }}', 'auto');
-          ga('send', 'pageview');
-        </script>
-    {% endif %}
-</body>
-<footer>
-</footer>
+        <div class="navbar container">
+            {% if site.ins_logo %}
+                <img id="ins-log
