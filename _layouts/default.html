@@ -77,25 +77,31 @@
         </div>
         <div style="clear:both"></div>
         <hr>
-                {% if page.is_contact == true %}
-            <div class="container content contact">
-        {% else %}
-            <div class="container content">
-        {% endif %}
+        {% if page.show_sidebar == true %}
                 <div class="content-wrapper">
-                    <aside class="sidebar">
-                        <img src="{{ site.baseurl }}/profile.jpg" alt="{{ site.author }}" class="profile-photo">
-                        
-                        <div class="contact-info">
-                            <p><strong>Office:</strong><br>177 Huntington Ave, 606</p>
-                            <p><strong>Email:</strong><br>j [dot] sarathy [at] northeastern [dot] edu</p>
-                        </div>
-                    </aside>
+                <aside class="sidebar">
+                    <img src="{{ site.baseurl }}/profile.jpg" alt="{{ site.author }}" class="profile-photo">
                     
-                    <div class="main-content">
-                        {{ content }}
+                    <div class="contact-info">
+                        <p><strong>Address:</strong><br>177 Huntington Ave, 606</p>
+                        <p><strong>Email:</strong><br>j [dot] sarathy [at] northeastern [dot] edu</p>
                     </div>
+                </aside>
+                
+                <div class="main-content">
+                    {{ content }}
+                    
+                    {% if site.footer == true %}
+                        <hr />
+                        <p style="text-align: center; margin-bottom: 10px">
+                        <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
+                        </p>
+                    {% endif %}
                 </div>
+            </div>
+         {% else %}
+            <div class="container">
+                {{ content }}
                 
                 {% if site.footer == true %}
                     <hr />
@@ -104,6 +110,7 @@
                     </p>
                 {% endif %}
             </div>
+        {% endif %}
     </div>
     {% if site.tracking_id %}
         <script>
