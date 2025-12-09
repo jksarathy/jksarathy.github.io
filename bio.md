@@ -1,13 +1,4 @@
-<figure class="profile-custom">
-  <img src="profile.png" alt="photo of Jayshree Sarathy">
-  <figcaption>
-    <a href="https://jayshreesarathy.net/hq_profile.png">High-quality version here</a>
-  </figcaption>
-</figure>
+Jayshree Sarathy is an incoming assistant professor in Computer Science at Northeastern University. Her work draws on perspectives from computer science and technology studies to study responsible data science. Currently, she is analyzing open data and privacy initiatives within the U.S. federal statistical system and the Wikimedia Foundation.
 
-
-Jayshree Sarathy is a senior research fellow and incoming assistant professor in Computer Science at Northeastern University.
-Her work draws on perspectives from computer science and technology studies to study responsible data science. Currently, she is analyzing open data and privacy initiatives within the U.S. federal statistical system and the Wikimedia Foundation.
-
-Jayshree received her Ph.D. in Computer Science from Harvard University and was a postdoctoral researcher at Columbia's Data Science Institute. Her work has been funded by the U.S. Census Bureau, the Edmond & Lily Safra Center for Ethics, and the National Science Foundation. 
+Jayshree received her Ph.D. in Computer Science from Harvard University and was a postdoctoral researcher at Columbia's Data Science Institute. She is an inaugural CRA Trustworthy AI Fellow. Her work has been funded by the U.S. Census Bureau, the Edmond & Lily Safra Center for Ethics, and the National Science Foundation. 
 
