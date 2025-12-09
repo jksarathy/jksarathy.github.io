@@ -1,5 +1,6 @@
 ---
 layout: default
+show_sidebar: true
 ---
 
 <!-- > **_Update:_** Text here -->
