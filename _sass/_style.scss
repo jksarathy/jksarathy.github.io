@@ -147,11 +147,18 @@ mark{
 	}
 }
 
-/* Main Content Layout with Sidebar */
+/* Sidebar Layout */
+.navbar-container {
+    max-width: $max-width;
+    margin: 0 auto;
+}
+
 .content-wrapper {
     display: flex;
     gap: 40px;
     align-items: flex-start;
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 .sidebar {
@@ -189,6 +196,7 @@ mark{
 .main-content {
     flex: 1;
     min-width: 0;
+    max-width: $max-width;
 }
 
 /* Responsive for sidebar */
