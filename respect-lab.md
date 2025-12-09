@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## **R**esponsible **P**rivacy-**E**nhancing **C**ritical **T**ech Lab
+## **R**esponsible **P**rivacy-**E**nhancing **C**ivic **T**ech Lab
 
 <hr>
 
