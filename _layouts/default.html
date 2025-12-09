@@ -77,12 +77,27 @@
         </div>
         <div style="clear:both"></div>
         <hr>
-        {% if page.is_contact == true %}
+                {% if page.is_contact == true %}
             <div class="container content contact">
         {% else %}
             <div class="container content">
         {% endif %}
-                {{ content }}
+                <div class="content-wrapper">
+                    <aside class="sidebar">
+                        <img src="{{ site.baseurl }}/profile.jpg" alt="{{ site.author }}" class="profile-photo">
+                        
+                        <div class="contact-info">
+                            <h3>Contact</h3>
+                            <p><strong>Address:</strong><br>177 Huntington Ave, 606</p>
+                            <p><strong>Email:</strong><br>j [dot] sarathy [at] northeastern [dot] edu</p>
+                        </div>
+                    </aside>
+                    
+                    <div class="main-content">
+                        {{ content }}
+                    </div>
+                </div>
+                
                 {% if site.footer == true %}
                     <hr />
                     <p style="text-align: center; margin-bottom: 10px">
