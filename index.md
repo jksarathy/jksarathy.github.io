@@ -31,8 +31,10 @@ Harvard Edmond and Lily Safra Center for Ethics (Graduate Fellow, 2022-23)
 
 <hr>
 
-### Selected Work
+### Selected Publications
 
+<div class="publications-list">
+ 
 **Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the US Census**\
 with danah boyd\
 Critical Sociology, 2024.\
@@ -57,4 +59,6 @@ ACM CHI Conference on Human Factors in Computing Systems, 2023\
 with danah boyd\
 Harvard Data Science Review, 2022.\
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077426) | [publisher's version](https://hdsr.mitpress.mit.edu/pub/3vj5j6i0)
+
+</div>
 
