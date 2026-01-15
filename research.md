@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<hr>
-
 ### Pre-Prints
 
 **"Having Confidence in my Confidence Intervals": How Data Users Engage with Privacy-Protected Wikipedia Data**\
