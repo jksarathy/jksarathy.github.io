@@ -4,10 +4,6 @@ layout: default
 
 ### Pre-Prints
 
-**"Having Confidence in my Confidence Intervals": How Data Users Engage with Privacy-Protected Wikipedia Data**\
-with Hal Triedman, Priyanka Nanayakkara, Rachel Cummings, Gabriel Kaptchuk, Sean Kross, and Elissa M. Redmiles\
-[arXiv](https://arxiv.org/abs/2512.06534) | <a href="./wikipedia-study.html">Study materials</a> 
-
 **ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical Adversaries**\
 with Rachel Cummings, Shlomi Hod, and Marika Swanberg\
 Presented at Foundations of Responsible Computing, 2024.\
@@ -20,6 +16,11 @@ Presented at Privacy Law Scholars Conference, 2021.\
 <hr>
 
 ### Peer-Reviewed Publications
+
+**"Having Confidence in my Confidence Intervals": How Data Users Engage with Privacy-Protected Wikipedia Data**\
+with Hal Triedman, Priyanka Nanayakkara, Rachel Cummings, Gabriel Kaptchuk, Sean Kross, and Elissa M. Redmiles\
+Conditionally accepted to ACM CHI Conference on Human Factors in Computing Systems, 2026\
+[arXiv](https://arxiv.org/abs/2512.06534) | <a href="./wikipedia-study.html">Study materials</a> 
 
 **Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression**\
 with Salil Vadhan\
