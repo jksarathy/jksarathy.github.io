@@ -33,28 +33,23 @@ Harvard Edmond and Lily Safra Center for Ethics (Graduate Fellow, 2022-23)
 
 ### Selected Publications
 
-**Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the US Census**\
+[Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the US Census](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4978999)\
 with danah boyd\
-Critical Sociology, 2024.\
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4978999) | [publisher's version](https://journals.sagepub.com/doi/abs/10.1177/08969205241270898)
+Critical Sociology, 2024.
 
-**"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**\
+["I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy](https://arxiv.org/abs/2410.09721)\
 with Patrick Song, Michael Shoemate, and Salil Vadhan\
-ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2024.\
-[arXiv](https://arxiv.org/abs/2410.09721) | [publisher's version](https://dl.acm.org/doi/10.1145/3687011)
+ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2024.
 
-**Centering Policy and Practice: Research Gaps around Usable Differential Privacy**\
+[Centering Policy and Practice: Research Gaps around Usable Differential Privacy](https://arxiv.org/abs/2406.12103)\
 with Rachel Cummings\
-IEEE Conference on Trust Privacy and Security in Intelligent Systems and Applications, 2023.\
-[arXiv](https://arxiv.org/abs/2406.12103) | [publisher's version](https://www.computer.org/csdl/proceedings-article/tps-isa/2023/238500a122/1UAj4IqN4sg)
+IEEE Conference on Trust Privacy and Security in Intelligent Systems and Applications, 2023.
  
-**Dont Look at the Data! How Differential Privacy Reconfigures the Practices of Data Science**\
+[Dont Look at the Data! How Differential Privacy Reconfigures the Practices of Data Science](https://arxiv.org/abs/2302.11775)\
 with Sophia Song, Audrey Haque, Tania Schlatter, and Salil Vadhan\
-ACM CHI Conference on Human Factors in Computing Systems, 2023\
-[arXiv](https://arxiv.org/abs/2302.11775) | [publisher's version](https://dl.acm.org/doi/abs/10.1145/3544548.3580791)
+ACM CHI Conference on Human Factors in Computing Systems, 2023
  
-**Differential Perspectives: Epistemic Disconnects Surrounding the US Census Bureau’s Use of Differential Privacy**\
+[Differential Perspectives: Epistemic Disconnects Surrounding the US Census Bureau’s Use of Differential Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077426)\
 with danah boyd\
-Harvard Data Science Review, 2022.\
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077426) | [publisher's version](https://hdsr.mitpress.mit.edu/pub/3vj5j6i0)
+Harvard Data Science Review, 2022.
 
