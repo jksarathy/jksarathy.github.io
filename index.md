@@ -33,23 +33,23 @@ Harvard Edmond and Lily Safra Center for Ethics (Graduate Fellow, 2022-23)
 
 ### Selected Publications
 
-[Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression](https://arxiv.org/abs/2207.13289)\
+[**Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression**](https://arxiv.org/abs/2207.13289)\
 with Salil Vadhan\
 Proceedings on Privacy Enhancing Technologies, 2025.
 
-["I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy](https://arxiv.org/abs/2410.09721)\
+[**"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**](https://arxiv.org/abs/2410.09721)\
 with Patrick Song, Michael Shoemate, and Salil Vadhan\
 ACM Conference on Computer-Supported Cooperative Work and Social Computing, 2024.
 
-[Centering Policy and Practice: Research Gaps around Usable Differential Privacy](https://arxiv.org/abs/2406.12103)\
+[**Centering Policy and Practice: Research Gaps around Usable Differential Privacy**](https://arxiv.org/abs/2406.12103)\
 with Rachel Cummings\
 IEEE Conference on Trust Privacy and Security in Intelligent Systems and Applications, 2023.
  
-[Dont Look at the Data! How Differential Privacy Reconfigures the Practices of Data Science](https://arxiv.org/abs/2302.11775)\
+[**Don't Look at the Data! How Differential Privacy Reconfigures the Practices of Data Science**](https://arxiv.org/abs/2302.11775)\
 with Sophia Song, Audrey Haque, Tania Schlatter, and Salil Vadhan\
 ACM CHI Conference on Human Factors in Computing Systems, 2023
  
-[Differential Perspectives: Epistemic Disconnects Surrounding the US Census Bureau’s Use of Differential Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077426)\
+[**Differential Perspectives: Epistemic Disconnects Surrounding the US Census Bureau’s Use of Differential Privacy**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4077426)\
 with danah boyd\
 Harvard Data Science Review, 2022.
 
