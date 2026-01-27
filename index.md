@@ -33,9 +33,9 @@ Harvard Edmond and Lily Safra Center for Ethics (Graduate Fellow, 2022-23)
 
 ### Selected Publications
 
-[Statistical Imaginaries, State Legitimacy: Grappling With the Arrangements Underpinning Quantification in the US Census](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4978999)\
-with danah boyd\
-Critical Sociology, 2024.
+[Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression](https://arxiv.org/abs/2207.13289)\
+with Salil Vadhan\
+Proceedings on Privacy Enhancing Technologies, 2025.
 
 ["I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy](https://arxiv.org/abs/2410.09721)\
 with Patrick Song, Michael Shoemate, and Salil Vadhan\
