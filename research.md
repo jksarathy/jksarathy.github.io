@@ -19,7 +19,7 @@ Presented at Privacy Law Scholars Conference, 2021.\
 
 **"Having Confidence in my Confidence Intervals": How Data Users Engage with Privacy-Protected Wikipedia Data**\
 with Hal Triedman, Priyanka Nanayakkara, Rachel Cummings, Gabriel Kaptchuk, Sean Kross, and Elissa M. Redmiles\
-Conditionally accepted to ACM CHI Conference on Human Factors in Computing Systems, 2026\
+ACM CHI Conference on Human Factors in Computing Systems, 2026\
 [arXiv](https://arxiv.org/abs/2512.06534) | <a href="./wikipedia-study.html">Study materials</a> 
 
 **Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression**\
