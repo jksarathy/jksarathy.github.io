@@ -18,7 +18,7 @@ sass:
 nav:
  - name: "Research"
    link: "research"
- - name: "Policy"
+ - name: "Policy & Practice"
    link: "policy"
  - name: "Teaching"
    link: "teaching"
