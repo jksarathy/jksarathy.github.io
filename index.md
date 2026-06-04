@@ -33,6 +33,10 @@ Harvard Edmond and Lily Safra Center for Ethics (Graduate Fellow, 2022-23)
 
 ### Selected Publications
 
+[**"Having Confidence in my Confidence Intervals": How Data Users Engage with Privacy-Protected Wikipedia Data**](https://arxiv.org/abs/2512.06534)\
+with Hal Triedman, Priyanka Nanayakkara, Rachel Cummings, Gabriel Kaptchuk, Sean Kross, and Elissa M. Redmiles\
+ACM CHI Conference on Human Factors in Computing Systems, 2026.
+
 [**Analyzing the Differentially Private Theil-Sen Estimator for Simple Linear Regression**](https://arxiv.org/abs/2207.13289)\
 with Salil Vadhan\
 Proceedings on Privacy Enhancing Technologies, 2025.
