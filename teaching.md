@@ -2,14 +2,13 @@
 layout: default
 ---
 
-**CS 208: Applied Privacy in Data Science**\
-Instructors: James Honaker, Salil Vadhan, and Wanrong Zhang\
-Teaching Fellow in Spring 2022
+**CS 7790: Privacy Technologies for Public-Interest Data Sharing** (Fall 2026)\
 
-**CS 208: Applied Privacy in Data Science**\
+**CS 208: Applied Privacy in Data Science** (Spring 2022)\
+Instructors: James Honaker, Salil Vadhan, Wanrong Zhang\
+
+**CS 208: Applied Privacy in Data Science** (Spring 2019)\
 Instructors: James Honaker and Salil Vadhan\
-Teaching Fellow in Spring 2019
 
-**CPSC 365: Design and Analysis of Algorithms**\
+**CPSC 365: Design and Analysis of Algorithms** (Spring 2017)\
 Instructor: Dan Spielman\
-Tutor in Spring 2017
