@@ -7,27 +7,29 @@ show_sidebar: true
 
 <!-- <img class="profile-custom" src="profile.png"> -->
 
-Welcome! I am an Assistant Professor of Computer Science at [Northeastern University](https://www.khoury.northeastern.edu/). I am interested in the sociotechnical dynamics of data science, with a focus on privacy, trust, and data access.
+Welcome! I am an Assistant Professor of Computer Science at [Northeastern University](https://www.khoury.northeastern.edu/). I run the [**Res**ponsible **P**rivacy-**E**nhancing **C**ivic **T**ech](./respect-lab.html) (ResPECT) Lab at Northeastern, which explores sociotechnical dynamics of data science and AI, including issues of privacy, politics, and communication of new technologies.
  
 I completed my PhD in Computer Science (with a secondary in Science & Technology Studies) at Harvard University, where I was fortunate to be advised by [Salil Vadhan](https://salil.seas.harvard.edu/) and [Jonathan Zittrain](https://hls.harvard.edu/faculty/jonathan-l-zittrain/) and work within the [OpenDP](https://opendp.org/) team. I completed my postdoc at Columbia University's [Data Science Institute](https://datascience.columbia.edu/), advised primarily by [Rachel Cummings](https://rachelcummings.com/).
  
-Previously, I was a graduate fellow at the [Edmond and Lily Safra Center for Ethics](https://ethics.harvard.edu/) and an intern at Microsoft Research's [Social Media Collective](https://socialmediacollective.org/) mentored by [danah boyd](http://www.danah.org/). Before that, I played four years of varsity golf at Yale University.<i class="em em-woman-golfing" aria-role="presentation" aria-label="GOLF"></i>
+Previously, I was [CRA Trustworthy AI Research Fellow](https://cra.org/crn/2026/02/cra-trustworthy-ai-research-fellow-spotlight-jayshree-sarathy/), a graduate fellow at Harvard's [Edmond and Lily Safra Center for Ethics](https://ethics.harvard.edu/) and an intern at Microsoft Research's [Social Media Collective](https://socialmediacollective.org/) mentored by [danah boyd](http://www.danah.org/). Before that, I played four years of varsity golf at Yale University.<i class="em em-woman-golfing" aria-role="presentation" aria-label="GOLF"></i>
 
 <hr>
 
 ### News
  
-I am launching the **Res**ponsible **P**rivacy-**E**nhancing **C**ivic **T**ech (ResPECT) Lab at Northeastern. We are recruiting PhD students and postdocs! See [here](./respect-lab.html) for info on how to apply.
+The **Res**ponsible **P**rivacy-**E**nhancing **C**ivic **T**ech (ResPECT) Lab at Northeastern is hiring PhD students and postdocs to join in Fall 2027! See [here](./respect-lab.html) for info on how to apply.
 
 <hr>
 
 ### Selected Grants and Fellowships
 
+Northeastern Institute for Information, Internet and Democracy Seed Grant (Co-PI, 2026-27)
+
 CRA Trustworthy AI Research Fellowship (Inaugural Fellow, 2025-26)
 
 NSF TIP Grant, ReDDDoT Phase 2, "Enabling Participatory Privacy Protections for AI Training Data" (Co-PI, 2024-27)
 
-Harvard Edmond and Lily Safra Center for Ethics (Graduate Fellow, 2022-23)
+Harvard Edmond and Lily Safra Center for Ethics Fellowship (Graduate Fellow, 2022-23)
 
 <hr>
 
