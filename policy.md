@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+[**An American Privacy Emergency**](https://scottaaronson.blog/?p=9902)\
+with John Abowd, Aloni Cohen, Cynthia Dwork, Jae June Lee, Adam Smith, and Salil Vadhan\
+Shetl Optimized Blog by Scott Aaronson, 2026.
 
 [**Announcing a New Repository of Output Privacy Attacks**](https://opendp.org/2025/12/17/announcing-a-new-repository-of-output-privacy-attacks/)\
 with OpenDP Attacks Working Group\
